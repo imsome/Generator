@@ -1,0 +1,6 @@
+16:34:28.022873 - Getting min and max ad ids: Failed
+16:37:31.699817 - Connect to DB: Failed
+16:38:15.257978 - Getting min and max ad ids: Failed
+16:39:39.234194 - Getting min and max ad ids: Failed
+16:40:07.578715 - Getting min and max ad ids: Failed
+18:40:06.363680 - Connect to DB: Failed

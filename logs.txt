@@ -1,0 +1,1805 @@
+13:37:48.765439 - App initialization: Trying to configure app
+13:37:48.766468 - App initialization: Configured
+13:37:48.767436 - Making url: Configured url with https://ip-2448.api.branch.swapix.com/
+13:37:48.768433 - Registration: Registering with user testswapix101@gmail.com
+13:37:48.769428 - Registration: Registering with user testswapix201@gmail.com
+13:37:48.7694280 - Registration: Registering with user testswapix301@gmail.com
+13:37:48.7694281 - Registration: Registering with user testswapix401@gmail.com
+13:37:48.7694282 - Registration: Registering with user testswapix501@gmail.com
+13:37:48.770427 - Connect to DB: Starting
+13:37:48.792367 - Connect to DB: Connection established
+13:37:48.807327 - Approving ads with DB: Starting
+13:37:48.819295 - Approving ads with DB: Finished successfully
+13:37:48.876166 - Registration: Failed to get right response
+__________________________
+13:37:48.891132 - Registration: Failed to get right response
+__________________________
+13:37:48.887137 - Registration: Failed to get right response
+__________________________
+13:37:48.903093 - Registration: Failed to get right response
+__________________________
+13:37:48.916066 - Registration: Failed to get right response
+__________________________
+13:37:48.9260301 - Authorization: Authorizing with user testswapix501@gmail.com
+13:37:48.926030 - Authorization: Authorizing with user testswapix101@gmail.com
+13:37:48.927028 - Authorization: Authorizing with user testswapix401@gmail.com
+13:37:48.9260300 - Authorization: Authorizing with user testswapix301@gmail.com
+13:37:48.9270280 - Authorization: Authorizing with user testswapix201@gmail.com
+13:37:49.570426 - Authorization: id: 5, email: testswapix101@gmail.com, token: 5JKQfBV9ryzz9MYBcvBTcFOGkuORKTCI
+13:37:49.574386 - Upload image: Trying to upload random image
+13:37:49.605409 - Authorization: id: 6, email: testswapix301@gmail.com, token: 7zerjr1WzmzSoCqWhHjfmLCEfC77zDWN
+13:37:49.609399 - Upload image: Trying to upload random image
+13:37:49.621366 - Authorization: id: 4, email: testswapix501@gmail.com, token: i4jePD0Lv1QPDij-9WuBQnJzMRuqNBJq
+13:37:49.624358 - Upload image: Trying to upload random image
+13:37:49.736312 - Upload image: {'success': True, 'data': [{'id': 3550, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:49.740303 - Upload image: Trying to upload random image
+13:37:49.764240 - Upload image: {'success': True, 'data': [{'id': 3551, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:37:49.768226 - Upload image: Trying to upload random image
+13:37:49.796152 - Upload image: {'success': True, 'data': [{'id': 3552, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:37:49.798146 - Creating add: Trying to create add with your settings
+13:37:49.952291 - Upload image: {'success': True, 'data': [{'id': 3553, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:37:49.956279 - Upload image: Trying to upload random image
+13:37:49.992219 - Authorization: id: 7, email: testswapix201@gmail.com, token: pQ72QMkjS6BxFUVRjMmZGiFKNpmqbkHf
+13:37:50.003158 - Upload image: Trying to upload random image
+13:37:50.033071 - Upload image: {'success': True, 'data': [{'id': 3554, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:37:50.035064 - Upload image: Trying to upload random image
+13:37:50.077122 - Creating add: ('id: 1010, name: ', 'Title random second', ', description: Unique description')
+13:37:50.080143 - Upload image: Trying to upload random image
+13:37:50.092082 - Authorization: id: 8, email: testswapix401@gmail.com, token: nY1JZOkJ3wZDJeyZv92RkOHBOtxCo71P
+13:37:50.095077 - Upload image: Trying to upload random image
+13:37:50.104050 - Upload image: {'success': True, 'data': [{'id': 3555, 'hash': '50506c6939350d0f'}], 'error': []}
+13:37:50.105047 - Creating add: Trying to create add with your settings
+13:37:50.123998 - Upload image: {'success': True, 'data': [{'id': 3556, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:37:50.124994 - Upload image: Trying to upload random image
+13:37:50.133971 - Upload image: {'success': True, 'data': [{'id': 3557, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:37:50.135966 - Upload image: Trying to upload random image
+13:37:50.185987 - Upload image: {'success': True, 'data': [{'id': 3558, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:37:50.187954 - Upload image: Trying to upload random image
+13:37:50.240219 - Upload image: {'success': True, 'data': [{'id': 3559, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:50.241253 - Upload image: Trying to upload random image
+13:37:50.249196 - Upload image: {'success': True, 'data': [{'id': 3560, 'hash': '7266c7c78646060f'}], 'error': []}
+13:37:50.251194 - Upload image: Trying to upload random image
+13:37:50.288091 - Upload image: {'success': True, 'data': [{'id': 3561, 'hash': '3737333733323b3b'}], 'error': []}
+13:37:50.289089 - Upload image: Trying to upload random image
+13:37:50.301057 - Upload image: {'success': True, 'data': [{'id': 3562, 'hash': '342622222232b2b2'}], 'error': []}
+13:37:50.302054 - Upload image: Trying to upload random image
+13:37:50.340950 - Upload image: {'success': True, 'data': [{'id': 3563, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:37:50.341976 - Upload image: Trying to upload random image
+13:37:50.358931 - Creating add: ('id: 1011, name: ', '4', ', description: Random_description')
+13:37:50.360897 - Upload image: {'success': True, 'data': [{'id': 3564, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:37:50.362905 - Creating add: Trying to create add with your settings
+13:37:50.366882 - Upload image: Trying to upload random image
+13:37:50.449820 - Upload image: {'success': True, 'data': [{'id': 3565, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:37:50.452784 - Upload image: Trying to upload random image
+13:37:50.486728 - Upload image: {'success': True, 'data': [{'id': 3566, 'hash': '2226262626662624'}], 'error': []}
+13:37:50.489681 - Creating add: Trying to create add with your settings
+13:37:50.517604 - Upload image: {'success': True, 'data': [{'id': 3568, 'hash': '7266c7c78646060f'}], 'error': []}
+13:37:50.519602 - Upload image: Trying to upload random image
+13:37:50.542538 - Upload image: {'success': True, 'data': [{'id': 3567, 'hash': '342622222232b2b2'}], 'error': []}
+13:37:50.544532 - Creating add: Trying to create add with your settings
+13:37:50.622323 - Creating add: ('id: 1012, name: ', 'Title random second', ', description: Unique description')
+13:37:50.625315 - Upload image: Trying to upload random image
+13:37:50.632296 - Upload image: {'success': True, 'data': [{'id': 3569, 'hash': 'dc9a363656565676'}], 'error': []}
+13:37:50.634293 - Upload image: Trying to upload random image
+13:37:50.637283 - Creating add: Failed
+13:37:50.644265 - Upload image: Trying to upload random image
+13:37:50.667203 - Upload image: {'success': True, 'data': [{'id': 3570, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:37:50.669200 - Upload image: Trying to upload random image
+13:37:50.766962 - Upload image: {'success': True, 'data': [{'id': 3571, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:37:50.770958 - Creating add: Trying to create add with your settings
+13:37:50.788903 - Upload image: {'success': True, 'data': [{'id': 3572, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:37:50.791945 - Creating add: Trying to create add with your settings
+13:37:50.812843 - Upload image: {'success': True, 'data': [{'id': 3573, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:37:50.818822 - Creating add: ('id: 1013, name: ', 'Title', ', description: Test description')
+13:37:50.822813 - Upload image: Trying to upload random image
+13:37:50.826800 - Upload image: Trying to upload random image
+13:37:50.850734 - Upload image: {'success': True, 'data': [{'id': 3574, 'hash': '342622222232b2b2'}], 'error': []}
+13:37:50.852730 - Creating add: Trying to create add with your settings
+13:37:50.961440 - Upload image: {'success': True, 'data': [{'id': 3575, 'hash': 'a0592949db59495b'}], 'error': []}
+13:37:50.971418 - Upload image: Trying to upload random image
+13:37:50.975403 - Upload image: {'success': True, 'data': [{'id': 3576, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:37:50.979394 - Upload image: Trying to upload random image
+13:37:51.136268 - Upload image: {'success': True, 'data': [{'id': 3577, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:51.140257 - Upload image: Trying to upload random image
+13:37:51.175207 - Creating add: ('id: 1014, name: ', 'Test', ', description: 23453453452345')
+13:37:51.181191 - Creating add: ('id: 1015, name: ', 'Title', ', description: New description')
+13:37:51.191166 - Creating add: ('id: 1016, name: ', "Here's new title", ', description: This is a description')
+13:37:51.203135 - Upload image: {'success': True, 'data': [{'id': 3578, 'hash': '2226262626662624'}], 'error': []}
+13:37:51.207121 - Upload image: Trying to upload random image
+13:37:51.208123 - Upload image: Trying to upload random image
+13:37:51.2081230 - Creating add: Trying to create add with your settings
+13:37:51.209117 - Upload image: Trying to upload random image
+13:37:51.299873 - Upload image: {'success': True, 'data': [{'id': 3579, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:51.300870 - Creating add: Trying to create add with your settings
+13:37:51.447672 - Upload image: {'success': True, 'data': [{'id': 3580, 'hash': '2226262626662624'}], 'error': []}
+13:37:51.448668 - Upload image: Trying to upload random image
+13:37:51.502657 - Upload image: {'success': True, 'data': [{'id': 3581, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:37:51.504653 - Upload image: Trying to upload random image
+13:37:51.509640 - Upload image: {'success': True, 'data': [{'id': 3582, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:51.511634 - Upload image: Trying to upload random image
+13:37:51.539559 - Creating add: ('id: 1017, name: ', '5', ', description: 315243341123351')
+13:37:51.542551 - Upload image: {'success': True, 'data': [{'id': 3583, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:37:51.543548 - Upload image: Trying to upload random image
+13:37:51.545543 - Upload image: Trying to upload random image
+13:37:51.620343 - Upload image: {'success': True, 'data': [{'id': 3584, 'hash': '50506c6939350d0f'}], 'error': []}
+13:37:51.621339 - Upload image: Trying to upload random image
+13:37:51.659240 - Creating add: ('id: 1018, name: ', 'Title random second', ', description: 231321')
+13:37:51.663228 - Upload image: Trying to upload random image
+13:37:51.691256 - Upload image: {'success': True, 'data': [{'id': 3587, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:51.693243 - Upload image: {'success': True, 'data': [{'id': 3586, 'hash': 'a0592949db59495b'}], 'error': []}
+13:37:51.694240 - Upload image: Trying to upload random image
+13:37:51.695236 - Upload image: Trying to upload random image
+13:37:51.699226 - Upload image: {'success': True, 'data': [{'id': 3585, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:51.700223 - Upload image: Trying to upload random image
+13:37:51.747125 - Upload image: {'success': True, 'data': [{'id': 3588, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:51.748125 - Upload image: Trying to upload random image
+13:37:51.778026 - Upload image: {'success': True, 'data': [{'id': 3589, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:37:51.782016 - Upload image: Trying to upload random image
+13:37:51.845134 - Upload image: {'success': True, 'data': [{'id': 3591, 'hash': '326267696d496869'}], 'error': []}
+13:37:51.851137 - Upload image: Trying to upload random image
+13:37:51.884159 - Upload image: {'success': True, 'data': [{'id': 3590, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:37:51.885128 - Upload image: Trying to upload random image
+13:37:51.917071 - Upload image: {'success': True, 'data': [{'id': 3592, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:51.918042 - Upload image: Trying to upload random image
+13:37:51.920035 - Upload image: {'success': True, 'data': [{'id': 3593, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:37:51.924025 - Creating add: Trying to create add with your settings
+13:37:51.9240250 - Upload image: {'success': True, 'data': [{'id': 3594, 'hash': '0243030202161e1b'}], 'error': []}
+13:37:51.925022 - Upload image: Trying to upload random image
+13:37:51.931006 - Upload image: {'success': True, 'data': [{'id': 3595, 'hash': '7266c7c78646060f'}], 'error': []}
+13:37:51.933003 - Creating add: Trying to create add with your settings
+13:37:51.973891 - Upload image: {'success': True, 'data': [{'id': 3596, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:51.975887 - Upload image: Trying to upload random image
+13:37:52.066772 - Upload image: {'success': True, 'data': [{'id': 3597, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:52.067766 - Creating add: Trying to create add with your settings
+13:37:52.100679 - Upload image: {'success': True, 'data': [{'id': 3598, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:52.107661 - Creating add: Trying to create add with your settings
+13:37:52.137583 - Upload image: {'success': True, 'data': [{'id': 3599, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:52.138577 - Upload image: Trying to upload random image
+13:37:52.148550 - Creating add: Failed
+13:37:52.154534 - Upload image: Trying to upload random image
+13:37:52.189447 - Creating add: ('id: 1019, name: ', '1', ', description: Test description')
+13:37:52.197420 - Upload image: Trying to upload random image
+13:37:52.219361 - Creating add: ('id: 1020, name: ', 'Generator title', ', description: hnfdjkl54l743285v b3245f')
+13:37:52.223351 - Upload image: Trying to upload random image
+13:37:52.964494 - Upload image: {'success': True, 'data': [{'id': 3600, 'hash': '3737333733323b3b'}], 'error': []}
+13:37:52.966489 - Upload image: Trying to upload random image
+13:37:53.189394 - Upload image: {'success': True, 'data': [{'id': 3603, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:37:53.192386 - Upload image: Trying to upload random image
+13:37:53.231280 - Creating add: ('id: 1021, name: ', '1', ', description: Test description')
+13:37:53.235269 - Upload image: Trying to upload random image
+13:37:53.264192 - Upload image: {'success': True, 'data': [{'id': 3602, 'hash': '2226262626662624'}], 'error': []}
+13:37:53.265191 - Creating add: Trying to create add with your settings
+13:37:53.289152 - Upload image: {'success': True, 'data': [{'id': 3601, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:53.291119 - Upload image: {'success': True, 'data': [{'id': 3604, 'hash': '326267696d496869'}], 'error': []}
+13:37:53.292119 - Creating add: Trying to create add with your settings
+13:37:53.2921190 - Upload image: Trying to upload random image
+13:37:53.339251 - Upload image: {'success': True, 'data': [{'id': 3605, 'hash': '3737333733323b3b'}], 'error': []}
+13:37:53.340248 - Upload image: Trying to upload random image
+13:37:53.403089 - Creating add: Failed
+13:37:53.406110 - Upload image: Trying to upload random image
+13:37:53.433008 - Upload image: {'success': True, 'data': [{'id': 3606, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:53.434007 - Creating add: Trying to create add with your settings
+13:37:53.722014 - Upload image: {'success': True, 'data': [{'id': 3607, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:53.723009 - Creating add: Trying to create add with your settings
+13:37:53.783883 - Upload image: {'success': True, 'data': [{'id': 3608, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:53.785884 - Upload image: Trying to upload random image
+13:37:53.835745 - Upload image: {'success': True, 'data': [{'id': 3609, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:53.839734 - Upload image: Trying to upload random image
+13:37:53.868656 - Creating add: ('id: 1023, name: ', 'Test', ', description: Description')
+13:37:53.874641 - Upload image: Trying to upload random image
+13:37:53.885611 - Creating add: ('id: 1022, name: ', 'Test', ', description: Testing now')
+13:37:53.891609 - Upload image: Trying to upload random image
+13:37:53.931499 - Creating add: ('id: 1024, name: ', '4', ', description: Random_description')
+13:37:53.935479 - Upload image: Trying to upload random image
+13:37:53.959414 - Upload image: {'success': True, 'data': [{'id': 3610, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:53.960410 - Upload image: Trying to upload random image
+13:37:53.965401 - Upload image: {'success': True, 'data': [{'id': 3611, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:53.967394 - Creating add: Trying to create add with your settings
+13:37:54.005290 - Upload image: {'success': True, 'data': [{'id': 3612, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:54.006289 - Upload image: Trying to upload random image
+13:37:54.023242 - Upload image: {'success': True, 'data': [{'id': 3613, 'hash': '704ccecceecece17'}], 'error': []}
+13:37:54.024269 - Upload image: Trying to upload random image
+13:37:54.032219 - Upload image: {'success': True, 'data': [{'id': 3614, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:54.034213 - Upload image: Trying to upload random image
+13:37:54.040197 - Upload image: {'success': True, 'data': [{'id': 3615, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:37:54.041197 - Upload image: Trying to upload random image
+13:37:54.083084 - Upload image: {'success': True, 'data': [{'id': 3616, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:37:54.085077 - Upload image: Trying to upload random image
+13:37:54.176832 - Upload image: {'success': True, 'data': [{'id': 3617, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:37:54.199771 - Upload image: {'success': True, 'data': [{'id': 3618, 'hash': '704ccecceecece17'}], 'error': []}
+13:37:54.201767 - Upload image: Trying to upload random image
+13:37:54.2017670 - Creating add: Trying to create add with your settings
+13:37:54.264602 - Upload image: {'success': True, 'data': [{'id': 3619, 'hash': '2226262626662624'}], 'error': []}
+13:37:54.271579 - Creating add: ('id: 1025, name: ', 'Random', ', description: 63513513.04132')
+13:37:54.300503 - Upload image: Trying to upload random image
+13:37:54.303495 - Upload image: {'success': True, 'data': [{'id': 3620, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:54.286539 - Upload image: Trying to upload random image
+13:37:54.317475 - Upload image: Trying to upload random image
+13:37:54.444260 - Upload image: {'success': True, 'data': [{'id': 3621, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:54.449247 - Creating add: Trying to create add with your settings
+13:37:54.475179 - Upload image: {'success': True, 'data': [{'id': 3622, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:37:54.477170 - Creating add: Trying to create add with your settings
+13:37:54.486147 - Upload image: {'success': True, 'data': [{'id': 3623, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:54.490136 - Creating add: Trying to create add with your settings
+13:37:54.504099 - Creating add: ('id: 1026, name: ', '6', ', description: 231321')
+13:37:54.509085 - Upload image: {'success': True, 'data': [{'id': 3624, 'hash': '312b227470735671'}], 'error': []}
+13:37:54.511080 - Upload image: Trying to upload random image
+13:37:54.514072 - Upload image: Trying to upload random image
+13:37:54.572915 - Creating add: Failed
+13:37:54.576904 - Upload image: Trying to upload random image
+13:37:54.686615 - Upload image: {'success': True, 'data': [{'id': 3625, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:37:54.688605 - Upload image: Trying to upload random image
+13:37:54.703565 - Upload image: {'success': True, 'data': [{'id': 3626, 'hash': '43579d9490313474'}], 'error': []}
+13:37:54.705559 - Upload image: {'success': True, 'data': [{'id': 3627, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:54.706558 - Upload image: Trying to upload random image
+13:37:54.707563 - Upload image: Trying to upload random image
+13:37:54.743458 - Creating add: ('id: 1027, name: ', '4', ', description: Testing now')
+13:37:54.747449 - Upload image: Trying to upload random image
+13:37:54.772452 - Creating add: ('id: 1028, name: ', 'Title random second', ', description: Random_description')
+13:37:54.776437 - Upload image: Trying to upload random image
+13:37:54.784415 - Upload image: {'success': True, 'data': [{'id': 3628, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:37:54.785414 - Creating add: Trying to create add with your settings
+13:37:54.804363 - Upload image: {'success': True, 'data': [{'id': 3629, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:54.805356 - Creating add: Trying to create add with your settings
+13:37:54.813336 - Upload image: {'success': True, 'data': [{'id': 3630, 'hash': 'db556464644c5627'}], 'error': []}
+13:37:54.815332 - Upload image: Trying to upload random image
+13:37:54.847246 - Upload image: {'success': True, 'data': [{'id': 3631, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:37:54.848243 - Upload image: Trying to upload random image
+13:37:54.865196 - Upload image: {'success': True, 'data': [{'id': 3632, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:37:54.866193 - Upload image: Trying to upload random image
+13:37:54.899300 - Upload image: {'success': True, 'data': [{'id': 3633, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:37:54.900266 - Upload image: Trying to upload random image
+13:37:54.938419 - Upload image: Failed
+13:37:54.940417 - Upload image: Trying to upload random image
+13:37:54.984334 - Upload image: {'success': True, 'data': [{'id': 3634, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:37:54.985331 - Upload image: Trying to upload random image
+13:37:55.014286 - Upload image: {'success': True, 'data': [{'id': 3635, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:55.015252 - Creating add: Trying to create add with your settings
+13:37:55.028218 - Upload image: {'success': True, 'data': [{'id': 3636, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:37:55.030211 - Upload image: Trying to upload random image
+13:37:55.049161 - Creating add: ('id: 1029, name: ', '4', ', description: 45234532452367')
+13:37:55.052152 - Upload image: Trying to upload random image
+13:37:55.084069 - Upload image: {'success': True, 'data': [{'id': 3637, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:55.085069 - Creating add: Trying to create add with your settings
+13:37:55.112992 - Creating add: ('id: 1030, name: ', '5', ', description: hnfdjkl54l743285v b3245f')
+13:37:55.115982 - Upload image: Trying to upload random image
+13:37:55.157038 - Upload image: {'success': True, 'data': [{'id': 3638, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:55.158067 - Upload image: Trying to upload random image
+13:37:55.162026 - Upload image: {'success': True, 'data': [{'id': 3639, 'hash': '1424262626363466'}], 'error': []}
+13:37:55.164047 - Upload image: Trying to upload random image
+13:37:55.268212 - Upload image: {'success': True, 'data': [{'id': 3640, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:55.271236 - Upload image: Trying to upload random image
+13:37:55.283173 - Upload image: {'success': True, 'data': [{'id': 3641, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:37:55.292150 - Creating add: Trying to create add with your settings
+13:37:55.322063 - Upload image: {'success': True, 'data': [{'id': 3642, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:55.325053 - Creating add: Trying to create add with your settings
+13:37:55.367967 - Creating add: ('id: 1031, name: ', 'Test', ', description: Description')
+13:37:55.370931 - Upload image: Trying to upload random image
+13:37:55.419842 - Creating add: ('id: 1032, name: ', '2', ', description: New description')
+13:37:55.422835 - Upload image: Trying to upload random image
+13:37:55.463761 - Upload image: {'success': True, 'data': [{'id': 3643, 'hash': 'dc9a363656565676'}], 'error': []}
+13:37:55.464758 - Upload image: Trying to upload random image
+13:37:55.532118 - Upload image: {'success': True, 'data': [{'id': 3644, 'hash': '704ccecceecece17'}], 'error': []}
+13:37:55.534075 - Upload image: Trying to upload random image
+13:37:55.578033 - Upload image: {'success': True, 'data': [{'id': 3645, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:55.581025 - Upload image: Trying to upload random image
+13:37:55.637002 - Upload image: {'success': True, 'data': [{'id': 3646, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:55.638968 - Upload image: Trying to upload random image
+13:37:55.659912 - Creating add: ('id: 1033, name: ', '10231', ', description: Description')
+13:37:55.665896 - Upload image: Trying to upload random image
+13:37:55.711926 - Creating add: ('id: 1034, name: ', 'Testing', ', description: 45234532452367')
+13:37:55.714918 - Upload image: Trying to upload random image
+13:37:55.749951 - Upload image: {'success': True, 'data': [{'id': 3647, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:55.750980 - Creating add: Trying to create add with your settings
+13:37:55.800886 - Upload image: {'success': True, 'data': [{'id': 3648, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:37:55.802868 - Creating add: Trying to create add with your settings
+13:37:55.845101 - Upload image: {'success': True, 'data': [{'id': 3649, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:55.846099 - Upload image: Trying to upload random image
+13:37:55.859063 - Upload image: {'success': True, 'data': [{'id': 3650, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:37:55.860061 - Upload image: Trying to upload random image
+13:37:55.908350 - Upload image: {'success': True, 'data': [{'id': 3651, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:37:55.910318 - Upload image: Trying to upload random image
+13:37:55.947333 - Upload image: {'success': True, 'data': [{'id': 3652, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:55.948330 - Upload image: Trying to upload random image
+13:37:55.983434 - Upload image: {'success': True, 'data': [{'id': 3653, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:55.984461 - Upload image: Trying to upload random image
+13:37:56.022453 - Upload image: {'success': True, 'data': [{'id': 3654, 'hash': '7266c7c78646060f'}], 'error': []}
+13:37:56.023470 - Creating add: Trying to create add with your settings
+13:37:56.073440 - Creating add: ('id: 1036, name: ', '6', ', description: Random_description')
+13:37:56.079424 - Upload image: Trying to upload random image
+13:37:56.116326 - Creating add: ('id: 1035, name: ', '5', ', description: 45234532452367')
+13:37:56.120317 - Upload image: {'success': True, 'data': [{'id': 3655, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:37:56.123306 - Upload image: {'success': True, 'data': [{'id': 3656, 'hash': '342622222232b2b2'}], 'error': []}
+13:37:56.125301 - Creating add: Trying to create add with your settings
+13:37:56.1253010 - Creating add: Trying to create add with your settings
+13:37:56.134277 - Upload image: Trying to upload random image
+13:37:56.265352 - Creating add: Failed
+13:37:56.286296 - Upload image: {'success': True, 'data': [{'id': 3657, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:37:56.289289 - Upload image: Trying to upload random image
+13:37:56.295273 - Upload image: Trying to upload random image
+13:37:56.314233 - Creating add: ('id: 1037, name: ', '1', ', description: 5476568435643')
+13:37:56.3142330 - Upload image: {'success': True, 'data': [{'id': 3658, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:56.318210 - Creating add: Trying to create add with your settings
+13:37:56.339154 - Upload image: Trying to upload random image
+13:37:56.405974 - Creating add: ('id: 1038, name: ', 'Random_title', ', description: Description')
+13:37:56.409964 - Upload image: Trying to upload random image
+13:37:56.455841 - Upload image: {'success': True, 'data': [{'id': 3659, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:37:56.456841 - Upload image: Trying to upload random image
+13:37:56.471797 - Upload image: {'success': True, 'data': [{'id': 3660, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:37:56.472796 - Upload image: Trying to upload random image
+13:37:56.523710 - Upload image: {'success': True, 'data': [{'id': 3661, 'hash': '2226262626662624'}], 'error': []}
+13:37:56.525705 - Creating add: Trying to create add with your settings
+13:37:56.567627 - Upload image: {'success': True, 'data': [{'id': 3662, 'hash': '312b227470735671'}], 'error': []}
+13:37:56.568624 - Upload image: Trying to upload random image
+13:37:56.597548 - Creating add: ('id: 1039, name: ', '10231', ', description: Testing now')
+13:37:56.600567 - Upload image: Trying to upload random image
+13:37:56.603531 - Creating add: Failed
+13:37:56.611508 - Upload image: Trying to upload random image
+13:37:56.621483 - Upload image: {'success': True, 'data': [{'id': 3663, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:56.622481 - Upload image: Trying to upload random image
+13:37:56.741395 - Upload image: {'success': True, 'data': [{'id': 3664, 'hash': '704ccecceecece17'}], 'error': []}
+13:37:56.750376 - Upload image: {'success': True, 'data': [{'id': 3665, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:37:56.761348 - Upload image: Trying to upload random image
+13:37:56.755357 - Upload image: {'success': True, 'data': [{'id': 3666, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:37:56.7613480 - Upload image: {'success': True, 'data': [{'id': 3667, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:56.765330 - Upload image: Trying to upload random image
+13:37:56.766329 - Upload image: Trying to upload random image
+13:37:56.7663290 - Upload image: Trying to upload random image
+13:37:56.786274 - Upload image: {'success': True, 'data': [{'id': 3668, 'hash': '342622222232b2b2'}], 'error': []}
+13:37:56.789266 - Upload image: Trying to upload random image
+13:37:57.051886 - Upload image: {'success': True, 'data': [{'id': 3669, 'hash': '50506c6939350d0f'}], 'error': []}
+13:37:57.052882 - Upload image: Trying to upload random image
+13:37:57.066845 - Upload image: {'success': True, 'data': [{'id': 3670, 'hash': '1424262626363466'}], 'error': []}
+13:37:57.068842 - Upload image: Trying to upload random image
+13:37:57.095767 - Upload image: {'success': True, 'data': [{'id': 3671, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:37:57.093772 - Upload image: {'success': True, 'data': [{'id': 3672, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:57.097762 - Upload image: Trying to upload random image
+13:37:57.0977620 - Upload image: Trying to upload random image
+13:37:57.133665 - Upload image: Failed
+13:37:57.135661 - Creating add: Trying to create add with your settings
+13:37:57.171564 - Upload image: {'success': True, 'data': [{'id': 3673, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:37:57.172562 - Upload image: Trying to upload random image
+13:37:57.253709 - Upload image: {'success': True, 'data': [{'id': 3674, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:37:57.256700 - Creating add: Trying to create add with your settings
+13:37:57.296594 - Upload image: {'success': True, 'data': [{'id': 3675, 'hash': '3737333733323b3b'}], 'error': []}
+13:37:57.297593 - Upload image: Trying to upload random image
+13:37:57.314545 - Upload image: {'success': True, 'data': [{'id': 3677, 'hash': '43579d9490313474'}], 'error': []}
+13:37:57.316540 - Upload image: Trying to upload random image
+13:37:57.335492 - Upload image: {'success': True, 'data': [{'id': 3676, 'hash': '2226262626662624'}], 'error': []}
+13:37:57.337484 - Creating add: Trying to create add with your settings
+13:37:57.475438 - Upload image: {'success': True, 'data': [{'id': 3678, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:57.477434 - Upload image: Trying to upload random image
+13:37:57.510395 - Creating add: ('id: 1040, name: ', 'Title random second', ', description: 231321')
+13:37:57.518367 - Upload image: Trying to upload random image
+13:37:57.555383 - Creating add: ('id: 1041, name: ', '2', ', description: 63513513.04132')
+13:37:57.558375 - Upload image: Trying to upload random image
+13:37:57.615223 - Upload image: {'success': True, 'data': [{'id': 3679, 'hash': 'c18585918183c347'}], 'error': []}
+13:37:57.617217 - Creating add: Trying to create add with your settings
+13:37:57.631180 - Upload image: {'success': True, 'data': [{'id': 3680, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:37:57.633174 - Creating add: Trying to create add with your settings
+13:37:57.661108 - Upload image: {'success': True, 'data': [{'id': 3681, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:37:57.667083 - Upload image: {'success': True, 'data': [{'id': 3682, 'hash': '3737333733323b3b'}], 'error': []}
+13:37:57.668081 - Upload image: Trying to upload random image
+13:37:57.669079 - Upload image: Trying to upload random image
+13:37:57.691019 - Creating add: ('id: 1042, name: ', 'Test', ', description: 5476568435643')
+13:37:57.700993 - Upload image: Trying to upload random image
+13:37:57.704982 - Creating add: Failed
+13:37:57.715953 - Upload image: Trying to upload random image
+13:37:57.758837 - Upload image: {'success': True, 'data': [{'id': 3683, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:37:57.759835 - Upload image: Trying to upload random image
+13:37:57.834768 - Upload image: {'success': True, 'data': [{'id': 3684, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:37:57.835737 - Creating add: Trying to create add with your settings
+13:37:57.840751 - Upload image: {'success': True, 'data': [{'id': 3685, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:37:57.841723 - Upload image: Trying to upload random image
+13:37:57.844714 - Upload image: {'success': True, 'data': [{'id': 3686, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:37:57.848704 - Creating add: Trying to create add with your settings
+13:37:57.860670 - Upload image: {'success': True, 'data': [{'id': 3687, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:37:57.861677 - Creating add: Trying to create add with your settings
+13:37:57.882611 - Creating add: ('id: 1043, name: ', 'Test', ', description: 63513513.04132')
+13:37:57.886601 - Upload image: Trying to upload random image
+13:37:58.037868 - Upload image: {'success': True, 'data': [{'id': 3688, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:58.039838 - Upload image: Trying to upload random image
+13:37:58.049811 - Upload image: {'success': True, 'data': [{'id': 3689, 'hash': '704ccecceecece17'}], 'error': []}
+13:37:58.052804 - Upload image: Trying to upload random image
+13:37:58.130663 - Creating add: ('id: 1044, name: ', '1', ', description: Description')
+13:37:58.132660 - Upload image: Trying to upload random image
+13:37:58.177852 - Creating add: ('id: 1045, name: ', '6', ', description: New description')
+13:37:58.180872 - Upload image: Trying to upload random image
+13:37:58.204779 - Upload image: {'success': True, 'data': [{'id': 3690, 'hash': 'db556464644c5627'}], 'error': []}
+13:37:58.205808 - Creating add: ('id: 1046, name: ', "Here's new title", ', description: 23453453452345')
+13:37:58.206775 - Upload image: Trying to upload random image
+13:37:58.2067750 - Registration: Registering with user testswapix502@gmail.com
+13:37:58.218742 - Upload image: {'success': True, 'data': [{'id': 3691, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:37:58.219741 - Upload image: Trying to upload random image
+13:37:58.239686 - Upload image: {'success': True, 'data': [{'id': 3692, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:37:58.241684 - Upload image: Trying to upload random image
+13:37:58.251676 - Upload image: {'success': True, 'data': [{'id': 3693, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:37:58.252673 - Upload image: Trying to upload random image
+13:37:58.290572 - Registration: Failed to get right response
+__________________________
+13:37:58.292567 - Authorization: Authorizing with user testswapix502@gmail.com
+13:37:58.309521 - Upload image: {'success': True, 'data': [{'id': 3694, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:58.310519 - Upload image: Trying to upload random image
+13:37:58.398285 - Upload image: {'success': True, 'data': [{'id': 3696, 'hash': '50506c6939350d0f'}], 'error': []}
+13:37:58.400280 - Upload image: Trying to upload random image
+13:37:58.406263 - Upload image: {'success': True, 'data': [{'id': 3695, 'hash': '312b227470735671'}], 'error': []}
+13:37:58.408269 - Upload image: Trying to upload random image
+13:37:58.424220 - Upload image: {'success': True, 'data': [{'id': 3697, 'hash': '2226262626662624'}], 'error': []}
+13:37:58.425213 - Creating add: Trying to create add with your settings
+13:37:58.477098 - Upload image: {'success': True, 'data': [{'id': 3698, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:37:58.479068 - Upload image: Trying to upload random image
+13:37:58.528139 - Upload image: {'success': True, 'data': [{'id': 3699, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:37:58.530134 - Creating add: Trying to create add with your settings
+13:37:58.532130 - Upload image: {'success': True, 'data': [{'id': 3700, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:37:58.533126 - Upload image: Trying to upload random image
+13:37:58.590159 - Upload image: {'success': True, 'data': [{'id': 3701, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:37:58.591128 - Upload image: Trying to upload random image
+13:37:59.475772 - Upload image: Failed
+13:37:59.478767 - Upload image: Trying to upload random image
+13:37:59.943199 - Upload image: {'success': True, 'data': [{'id': 3702, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:37:59.947192 - Creating add: Trying to create add with your settings
+13:38:00.035949 - Creating add: ('id: 1047, name: ', '4', ', description: 5476568435643')
+13:38:00.038971 - Upload image: Trying to upload random image
+13:38:00.067868 - Authorization: id: 9, email: testswapix502@gmail.com, token: eXh_ahuhBSUgYxu_x2vAUwPDpyaQsWln
+13:38:00.070855 - Upload image: Trying to upload random image
+13:38:00.089836 - Creating add: ('id: 1048, name: ', 'Random_title', ', description: 102321436ty53fvg45f')
+13:38:00.090802 - Registration: Registering with user testswapix102@gmail.com
+13:38:00.110752 - Upload image: {'success': True, 'data': [{'id': 3703, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:00.112744 - Creating add: Trying to create add with your settings
+13:38:00.220712 - Upload image: {'success': True, 'data': [{'id': 3704, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:00.222706 - Upload image: Trying to upload random image
+13:38:00.225700 - Creating add: ('id: 1049, name: ', 'Test', ', description: Testing now')
+13:38:00.234675 - Upload image: Trying to upload random image
+13:38:00.616062 - Registration: Failed to get right response
+__________________________
+13:38:00.619086 - Authorization: Authorizing with user testswapix102@gmail.com
+13:38:00.682884 - Creating add: ('id: 1050, name: ', '10231', ', description: Test description')
+13:38:00.683881 - Registration: Registering with user testswapix302@gmail.com
+13:38:00.731755 - Upload image: {'success': True, 'data': [{'id': 3705, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:00.733752 - Upload image: Trying to upload random image
+13:38:00.821984 - Upload image: {'success': True, 'data': [{'id': 3706, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:00.826008 - Upload image: Trying to upload random image
+13:38:00.874849 - Upload image: {'success': True, 'data': [{'id': 3707, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:00.878841 - Creating add: Trying to create add with your settings
+13:38:00.924811 - Registration: Failed to get right response
+__________________________
+13:38:00.929795 - Upload image: {'success': True, 'data': [{'id': 3708, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:00.930792 - Authorization: Authorizing with user testswapix302@gmail.com
+13:38:00.931791 - Upload image: Trying to upload random image
+13:38:00.994748 - Upload image: {'success': True, 'data': [{'id': 3709, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:00.996742 - Upload image: Trying to upload random image
+13:38:01.094594 - Upload image: {'success': True, 'data': [{'id': 3710, 'hash': '1424262626363466'}], 'error': []}
+13:38:01.097587 - Creating add: Trying to create add with your settings
+13:38:01.124515 - Upload image: {'success': True, 'data': [{'id': 3711, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:01.128504 - Creating add: Trying to create add with your settings
+13:38:01.162411 - Creating add: ('id: 1051, name: ', '5', ', description: Description')
+13:38:01.168396 - Upload image: Trying to upload random image
+13:38:01.208289 - Creating add: Failed
+13:38:01.210284 - Registration: Registering with user testswapix202@gmail.com
+13:38:01.252300 - Authorization: id: 11, email: testswapix102@gmail.com, token: OG1GQ9XnP45f02-ZNmnQSujFF38svOdD
+13:38:01.254296 - Upload image: Trying to upload random image
+13:38:01.301206 - Upload image: {'success': True, 'data': [{'id': 3712, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:01.302219 - Upload image: Trying to upload random image
+13:38:01.340102 - Registration: Failed to get right response
+__________________________
+13:38:01.343095 - Authorization: Authorizing with user testswapix202@gmail.com
+13:38:01.411976 - Creating add: ('id: 1052, name: ', '4', ', description: This is a description')
+13:38:01.413972 - Registration: Registering with user testswapix402@gmail.com
+13:38:01.463838 - Upload image: {'success': True, 'data': [{'id': 3713, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:01.477800 - Upload image: Trying to upload random image
+13:38:01.500741 - Upload image: {'success': True, 'data': [{'id': 3714, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:01.508720 - Upload image: Trying to upload random image
+13:38:01.543624 - Authorization: id: 13, email: testswapix302@gmail.com, token: yDLQ89KOEojbfSjG5_3UqXLCDM_rwVsP
+13:38:01.552600 - Upload image: Trying to upload random image
+13:38:01.578531 - Registration: Failed to get right response
+__________________________
+13:38:01.585512 - Authorization: Authorizing with user testswapix402@gmail.com
+13:38:01.747080 - Upload image: {'success': True, 'data': [{'id': 3715, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:01.749076 - Upload image: Trying to upload random image
+13:38:01.773011 - Upload image: {'success': True, 'data': [{'id': 3716, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:01.774009 - Creating add: Trying to create add with your settings
+13:38:01.814898 - Upload image: {'success': True, 'data': [{'id': 3717, 'hash': '2226262626662624'}], 'error': []}
+13:38:01.816894 - Upload image: Trying to upload random image
+13:38:01.840828 - Upload image: {'success': True, 'data': [{'id': 3718, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:01.841826 - Creating add: Trying to create add with your settings
+13:38:01.897706 - Authorization: id: 10, email: testswapix202@gmail.com, token: 6wn8q2mTPs52NsWWf-1oZEpA0U71lNvJ
+13:38:01.899672 - Upload image: Trying to upload random image
+13:38:01.969486 - Upload image: {'success': True, 'data': [{'id': 3719, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:38:01.970484 - Creating add: Trying to create add with your settings
+13:38:02.004393 - Upload image: {'success': True, 'data': [{'id': 3720, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:02.005390 - Creating add: Trying to create add with your settings
+13:38:02.077196 - Creating add: ('id: 1053, name: ', 'Title', ', description: 5476568435643')
+13:38:02.080188 - Upload image: Trying to upload random image
+13:38:02.168977 - Creating add: ('id: 1054, name: ', '2', ', description: hnfdjkl54l743285v b3245f')
+13:38:02.171970 - Upload image: Trying to upload random image
+13:38:02.180946 - Upload image: {'success': True, 'data': [{'id': 3721, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:02.181941 - Upload image: Trying to upload random image
+13:38:02.231943 - Creating add: ('id: 1055, name: ', 'Generator title', ', description: New description')
+13:38:02.234964 - Upload image: Trying to upload random image
+13:38:02.253884 - Authorization: id: 12, email: testswapix402@gmail.com, token: PoMo756LaiLprtovuejYrgANzCDq8yw2
+13:38:02.257905 - Upload image: Trying to upload random image
+13:38:02.270838 - Upload image: {'success': True, 'data': [{'id': 3722, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:02.271837 - Upload image: Trying to upload random image
+13:38:02.281809 - Creating add: ('id: 1056, name: ', '4', ', description: 23453453452345')
+13:38:02.285798 - Upload image: Trying to upload random image
+13:38:02.373566 - Upload image: {'success': True, 'data': [{'id': 3724, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:02.374570 - Upload image: Trying to upload random image
+13:38:02.381543 - Upload image: {'success': True, 'data': [{'id': 3723, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:02.382542 - Upload image: Trying to upload random image
+13:38:02.433438 - Upload image: {'success': True, 'data': [{'id': 3725, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:02.434436 - Upload image: Trying to upload random image
+13:38:02.460337 - Upload image: {'success': True, 'data': [{'id': 3726, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:02.461335 - Upload image: {'success': True, 'data': [{'id': 3727, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:02.464328 - Upload image: {'success': True, 'data': [{'id': 3728, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:02.466322 - Upload image: Trying to upload random image
+13:38:02.465324 - Upload image: Trying to upload random image
+13:38:02.4663220 - Creating add: Trying to create add with your settings
+13:38:02.621335 - Upload image: {'success': True, 'data': [{'id': 3729, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:02.628320 - Upload image: {'success': True, 'data': [{'id': 3730, 'hash': '2226262626662624'}], 'error': []}
+13:38:02.633298 - Upload image: Trying to upload random image
+13:38:02.632301 - Upload image: Trying to upload random image
+13:38:02.643274 - Upload image: {'success': True, 'data': [{'id': 3731, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:02.654240 - Upload image: {'success': True, 'data': [{'id': 3732, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:02.659226 - Upload image: Trying to upload random image
+13:38:02.661222 - Upload image: Trying to upload random image
+13:38:02.727052 - Creating add: ('id: 1057, name: ', 'Generator title', ', description: Random_description')
+13:38:02.732030 - Upload image: Trying to upload random image
+13:38:02.794024 - Upload image: {'success': True, 'data': [{'id': 3733, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:02.795022 - Upload image: Trying to upload random image
+13:38:02.853310 - Upload image: {'success': True, 'data': [{'id': 3735, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:02.857299 - Upload image: Trying to upload random image
+13:38:02.860291 - Upload image: {'success': True, 'data': [{'id': 3734, 'hash': '1424262626363466'}], 'error': []}
+13:38:02.863247 - Upload image: Trying to upload random image
+13:38:02.920090 - Upload image: {'success': True, 'data': [{'id': 3736, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:02.921087 - Upload image: Trying to upload random image
+13:38:02.947017 - Upload image: {'success': True, 'data': [{'id': 3737, 'hash': '312b227470735671'}], 'error': []}
+13:38:02.949012 - Creating add: Trying to create add with your settings
+13:38:02.974942 - Upload image: {'success': True, 'data': [{'id': 3738, 'hash': '43579d9490313474'}], 'error': []}
+13:38:02.9749420 - Upload image: {'success': True, 'data': [{'id': 3739, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:02.975939 - Upload image: Trying to upload random image
+13:38:02.9759390 - Creating add: Trying to create add with your settings
+13:38:03.011844 - Upload image: {'success': True, 'data': [{'id': 3740, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:03.012841 - Creating add: Trying to create add with your settings
+13:38:03.027800 - Creating add: Failed
+13:38:03.031818 - Upload image: Trying to upload random image
+13:38:03.035779 - Upload image: {'success': True, 'data': [{'id': 3741, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:38:03.037774 - Upload image: Trying to upload random image
+13:38:03.069688 - Upload image: {'success': True, 'data': [{'id': 3742, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:03.070686 - Creating add: Trying to create add with your settings
+13:38:03.175348 - Upload image: {'success': True, 'data': [{'id': 3743, 'hash': '1424262626363466'}], 'error': []}
+13:38:03.179307 - Upload image: Trying to upload random image
+13:38:03.261086 - Upload image: {'success': True, 'data': [{'id': 3744, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:03.264078 - Upload image: Trying to upload random image
+13:38:03.289014 - Creating add: ('id: 1059, name: ', 'Test', ', description: hnfdjkl54l743285v b3245f')
+13:38:03.294995 - Creating add: ('id: 1058, name: ', 'Title random second', ', description: Description')
+13:38:03.299983 - Upload image: Trying to upload random image
+13:38:03.300978 - Upload image: Trying to upload random image
+13:38:03.313950 - Upload image: {'success': True, 'data': [{'id': 3745, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:03.315939 - Upload image: Trying to upload random image
+13:38:03.356834 - Creating add: ('id: 1060, name: ', '1', ', description: hnfdjkl54l743285v b3245f')
+13:38:03.359822 - Upload image: Trying to upload random image
+13:38:03.415672 - Upload image: {'success': True, 'data': [{'id': 3746, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:03.417667 - Creating add: Trying to create add with your settings
+13:38:03.450579 - Upload image: {'success': True, 'data': [{'id': 3747, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:03.452575 - Creating add: Trying to create add with your settings
+13:38:03.494461 - Upload image: {'success': True, 'data': [{'id': 3748, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:03.495461 - Upload image: Trying to upload random image
+13:38:03.576243 - Upload image: {'success': True, 'data': [{'id': 3749, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:03.578237 - Upload image: Trying to upload random image
+13:38:03.597187 - Upload image: {'success': True, 'data': [{'id': 3750, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:03.599181 - Upload image: Trying to upload random image
+13:38:03.714876 - Upload image: {'success': True, 'data': [{'id': 3751, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:03.720860 - Upload image: {'success': True, 'data': [{'id': 3752, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:03.725844 - Upload image: Trying to upload random image
+13:38:03.726841 - Creating add: Trying to create add with your settings
+13:38:03.794659 - Creating add: ('id: 1061, name: ', '5', ', description: 315243341123351')
+13:38:03.798675 - Upload image: Trying to upload random image
+13:38:03.840828 - Upload image: {'success': True, 'data': [{'id': 3753, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:03.842795 - Creating add: Trying to create add with your settings
+13:38:03.850893 - Creating add: ('id: 1062, name: ', '3', ', description: 315243341123351')
+13:38:03.853885 - Upload image: Trying to upload random image
+13:38:03.870840 - Creating add: Failed
+13:38:03.876825 - Upload image: Trying to upload random image
+13:38:03.946322 - Upload image: Failed
+13:38:03.948345 - Upload image: Trying to upload random image
+13:38:04.014339 - Upload image: {'success': True, 'data': [{'id': 3754, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:04.018328 - Creating add: Trying to create add with your settings
+13:38:04.020350 - Upload image: {'success': True, 'data': [{'id': 3755, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:04.022317 - Upload image: Trying to upload random image
+13:38:04.152422 - Upload image: {'success': True, 'data': [{'id': 3756, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:04.156381 - Upload image: Trying to upload random image
+13:38:04.197277 - Creating add: ('id: 1063, name: ', '3', ', description: 315243341123351')
+13:38:04.204255 - Upload image: Trying to upload random image
+13:38:04.232175 - Upload image: {'success': True, 'data': [{'id': 3757, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:04.234170 - Creating add: Trying to create add with your settings
+13:38:04.269076 - Upload image: {'success': True, 'data': [{'id': 3758, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:04.271071 - Upload image: Trying to upload random image
+13:38:04.295007 - Creating add: ('id: 1064, name: ', '10231', ', description: 5476568435643')
+13:38:04.298997 - Upload image: Trying to upload random image
+13:38:04.318943 - Upload image: {'success': True, 'data': [{'id': 3759, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:04.320937 - Upload image: Trying to upload random image
+13:38:04.400831 - Upload image: {'success': True, 'data': [{'id': 3760, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:04.404813 - Upload image: Trying to upload random image
+13:38:04.440724 - Upload image: {'success': True, 'data': [{'id': 3761, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:04.444757 - Upload image: Trying to upload random image
+13:38:04.497563 - Upload image: {'success': True, 'data': [{'id': 3763, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:04.498563 - Creating add: Trying to create add with your settings
+13:38:04.541477 - Creating add: ('id: 1065, name: ', 'Random', ', description: hnfdjkl54l743285v b3245f')
+13:38:04.543440 - Upload image: Trying to upload random image
+13:38:04.592417 - Upload image: {'success': True, 'data': [{'id': 3762, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:04.593443 - Upload image: Trying to upload random image
+13:38:04.691616 - Upload image: {'success': True, 'data': [{'id': 3764, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:04.693614 - Upload image: Trying to upload random image
+13:38:04.740514 - Upload image: {'success': True, 'data': [{'id': 3765, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:38:04.746471 - Upload image: {'success': True, 'data': [{'id': 3767, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:04.750459 - Upload image: {'success': True, 'data': [{'id': 3766, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:04.752486 - Upload image: Trying to upload random image
+13:38:04.753451 - Upload image: Trying to upload random image
+13:38:04.7534510 - Creating add: Trying to create add with your settings
+13:38:04.831371 - Upload image: {'success': True, 'data': [{'id': 3768, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:04.832395 - Upload image: Trying to upload random image
+13:38:05.575222 - Creating add: ('id: 1066, name: ', 'Random', ', description: New description')
+13:38:05.586159 - Upload image: Trying to upload random image
+13:38:06.050362 - Upload image: {'success': True, 'data': [{'id': 3769, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:06.054313 - Creating add: Trying to create add with your settings
+13:38:06.172144 - Upload image: {'success': True, 'data': [{'id': 3770, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:06.173147 - Upload image: Trying to upload random image
+13:38:06.180125 - Creating add: ('id: 1067, name: ', '2', ', description: 231321')
+13:38:06.184116 - Upload image: Trying to upload random image
+13:38:06.233452 - Upload image: {'success': True, 'data': [{'id': 3771, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:06.234448 - Creating add: Trying to create add with your settings
+13:38:06.250411 - Upload image: {'success': True, 'data': [{'id': 3772, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:06.252430 - Upload image: Trying to upload random image
+13:38:06.370087 - Upload image: {'success': True, 'data': [{'id': 3773, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:06.416961 - Creating add: Trying to create add with your settings
+13:38:06.666389 - Upload image: {'success': True, 'data': [{'id': 3774, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:06.668384 - Upload image: Trying to upload random image
+13:38:06.723443 - Creating add: ('id: 1068, name: ', 'Random_title', ', description: 231321')
+13:38:06.727460 - Upload image: Trying to upload random image
+13:38:06.755357 - Creating add: ('id: 1070, name: ', 'Title', ', description: Random_description')
+13:38:06.759374 - Upload image: Trying to upload random image
+13:38:06.778292 - Upload image: {'success': True, 'data': [{'id': 3775, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:06.780287 - Upload image: Trying to upload random image
+13:38:06.798240 - Creating add: ('id: 1069, name: ', 'Title', ', description: This is a description')
+13:38:06.802229 - Upload image: Trying to upload random image
+13:38:06.865088 - Upload image: {'success': True, 'data': [{'id': 3776, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:06.866057 - Creating add: Trying to create add with your settings
+13:38:06.895978 - Upload image: {'success': True, 'data': [{'id': 3778, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:06.897985 - Upload image: Trying to upload random image
+13:38:06.899968 - Upload image: {'success': True, 'data': [{'id': 3779, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:06.900965 - Upload image: Trying to upload random image
+13:38:06.906947 - Upload image: {'success': True, 'data': [{'id': 3777, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:06.908943 - Upload image: Trying to upload random image
+13:38:06.915924 - Upload image: {'success': True, 'data': [{'id': 3780, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:06.918916 - Upload image: Trying to upload random image
+13:38:07.077598 - Upload image: {'success': True, 'data': [{'id': 3781, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:07.083556 - Upload image: {'success': True, 'data': [{'id': 3782, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:07.086548 - Upload image: Trying to upload random image
+13:38:07.087583 - Upload image: Trying to upload random image
+13:38:07.138407 - Upload image: {'success': True, 'data': [{'id': 3783, 'hash': '2226262626662624'}], 'error': []}
+13:38:07.140404 - Upload image: Trying to upload random image
+13:38:07.151372 - Creating add: ('id: 1071, name: ', '3', ', description: hnfdjkl54l743285v b3245f')
+13:38:07.158355 - Upload image: {'success': True, 'data': [{'id': 3784, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:07.161346 - Upload image: Trying to upload random image
+13:38:07.164339 - Upload image: Trying to upload random image
+13:38:07.228200 - Upload image: {'success': True, 'data': [{'id': 3785, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:07.230165 - Creating add: Trying to create add with your settings
+13:38:07.291072 - Upload image: {'success': True, 'data': [{'id': 3786, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:07.293067 - Creating add: Trying to create add with your settings
+13:38:07.300049 - Creating add: Failed
+13:38:07.304038 - Upload image: {'success': True, 'data': [{'id': 3787, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:07.306033 - Upload image: Trying to upload random image
+13:38:07.309024 - Upload image: Trying to upload random image
+13:38:07.323983 - Upload image: {'success': True, 'data': [{'id': 3788, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:07.325983 - Upload image: Trying to upload random image
+13:38:07.357896 - Upload image: {'success': True, 'data': [{'id': 3789, 'hash': '312b227470735671'}], 'error': []}
+13:38:07.358890 - Creating add: Trying to create add with your settings
+13:38:07.368865 - Creating add: Failed
+13:38:07.373855 - Upload image: Trying to upload random image
+13:38:07.465175 - Upload image: {'success': True, 'data': [{'id': 3790, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:07.469161 - Upload image: Trying to upload random image
+13:38:07.482170 - Upload image: {'success': True, 'data': [{'id': 3791, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:07.487110 - Upload image: Trying to upload random image
+13:38:07.537975 - Upload image: {'success': True, 'data': [{'id': 3792, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:07.540964 - Upload image: Trying to upload random image
+13:38:07.554925 - Upload image: {'success': True, 'data': [{'id': 3793, 'hash': '2226262626662624'}], 'error': []}
+13:38:07.555924 - Upload image: Trying to upload random image
+13:38:07.653805 - Creating add: ('id: 1072, name: ', 'Title', ', description: 23453453452345')
+13:38:07.671760 - Upload image: {'success': True, 'data': [{'id': 3794, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:07.672754 - Upload image: Trying to upload random image
+13:38:07.675746 - Upload image: Trying to upload random image
+13:38:07.681732 - Upload image: {'success': True, 'data': [{'id': 3795, 'hash': '326267696d496869'}], 'error': []}
+13:38:07.684725 - Creating add: Trying to create add with your settings
+13:38:07.699682 - Upload image: {'success': True, 'data': [{'id': 3796, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:07.703671 - Upload image: Trying to upload random image
+13:38:07.722618 - Upload image: {'success': True, 'data': [{'id': 3797, 'hash': '2226262626662624'}], 'error': []}
+13:38:07.732592 - Upload image: Trying to upload random image
+13:38:07.776710 - Creating add: Failed
+13:38:07.780702 - Upload image: Trying to upload random image
+13:38:07.830825 - Upload image: {'success': True, 'data': [{'id': 3798, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:07.832817 - Creating add: Trying to create add with your settings
+13:38:07.842817 - Upload image: {'success': True, 'data': [{'id': 3799, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:07.844788 - Upload image: Trying to upload random image
+13:38:07.857753 - Upload image: {'success': True, 'data': [{'id': 3800, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:07.860746 - Upload image: Trying to upload random image
+13:38:07.868723 - Upload image: {'success': True, 'data': [{'id': 3801, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:07.871717 - Upload image: Trying to upload random image
+13:38:07.904624 - Upload image: {'success': True, 'data': [{'id': 3802, 'hash': '2226262626662624'}], 'error': []}
+13:38:07.905623 - Creating add: Trying to create add with your settings
+13:38:07.967697 - Upload image: {'success': True, 'data': [{'id': 3804, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:07.968694 - Upload image: Trying to upload random image
+13:38:07.971686 - Upload image: {'success': True, 'data': [{'id': 3803, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:07.972688 - Upload image: Trying to upload random image
+13:38:07.977669 - Upload image: {'success': True, 'data': [{'id': 3805, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:07.978668 - Upload image: Trying to upload random image
+13:38:07.983654 - Creating add: Failed
+13:38:07.989638 - Upload image: Trying to upload random image
+13:38:08.108428 - Upload image: {'success': True, 'data': [{'id': 3806, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:08.106439 - Upload image: {'success': True, 'data': [{'id': 3807, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:08.114414 - Creating add: ('id: 1073, name: ', '5', ', description: Random_description')
+13:38:08.121393 - Creating add: Trying to create add with your settings
+13:38:08.119398 - Upload image: Trying to upload random image
+13:38:08.135356 - Upload image: Trying to upload random image
+13:38:08.164277 - Upload image: {'success': True, 'data': [{'id': 3808, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:08.166272 - Upload image: Trying to upload random image
+13:38:08.244198 - Upload image: {'success': True, 'data': [{'id': 3809, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:08.249185 - Creating add: Trying to create add with your settings
+13:38:08.265145 - Upload image: {'success': True, 'data': [{'id': 3810, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:08.268135 - Upload image: Trying to upload random image
+13:38:08.275115 - Upload image: {'success': True, 'data': [{'id': 3811, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:08.277110 - Upload image: Trying to upload random image
+13:38:08.298053 - Upload image: {'success': True, 'data': [{'id': 3812, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:08.303041 - Upload image: Trying to upload random image
+13:38:08.401821 - Upload image: {'success': True, 'data': [{'id': 3813, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:08.405805 - Creating add: Trying to create add with your settings
+13:38:08.415784 - Upload image: {'success': True, 'data': [{'id': 3814, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:08.424754 - Creating add: ('id: 1074, name: ', '6', ', description: 23453453452345')
+13:38:08.426752 - Upload image: Trying to upload random image
+13:38:08.447693 - Upload image: {'success': True, 'data': [{'id': 3815, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:08.455669 - Upload image: Trying to upload random image
+13:38:08.4556690 - Creating add: Trying to create add with your settings
+13:38:08.506533 - Creating add: ('id: 1075, name: ', '5', ', description: 23453453452345')
+13:38:08.510524 - Upload image: Trying to upload random image
+13:38:08.527478 - Creating add: Failed
+13:38:08.532464 - Upload image: Trying to upload random image
+13:38:08.543434 - Creating add: Failed
+13:38:08.548422 - Upload image: Trying to upload random image
+13:38:08.637191 - Upload image: {'success': True, 'data': [{'id': 3816, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:08.641180 - Upload image: Trying to upload random image
+13:38:08.664114 - Upload image: {'success': True, 'data': [{'id': 3817, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:08.667106 - Upload image: Trying to upload random image
+13:38:08.688048 - Upload image: {'success': True, 'data': [{'id': 3818, 'hash': '2226262626662624'}], 'error': []}
+13:38:08.691040 - Upload image: Trying to upload random image
+13:38:08.707994 - Upload image: {'success': True, 'data': [{'id': 3819, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:08.709989 - Upload image: Trying to upload random image
+13:38:08.720959 - Upload image: {'success': True, 'data': [{'id': 3820, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:08.721958 - Creating add: Trying to create add with your settings
+13:38:08.763845 - Upload image: {'success': True, 'data': [{'id': 3821, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:08.764843 - Upload image: Trying to upload random image
+13:38:08.843116 - Upload image: {'success': True, 'data': [{'id': 3822, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:08.847107 - Upload image: Trying to upload random image
+13:38:08.856087 - Upload image: {'success': True, 'data': [{'id': 3823, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:08.859074 - Upload image: Trying to upload random image
+13:38:08.905948 - Upload image: {'success': True, 'data': [{'id': 3824, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:08.907943 - Upload image: Trying to upload random image
+13:38:08.997092 - Upload image: {'success': True, 'data': [{'id': 3825, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:08.999087 - Creating add: Trying to create add with your settings
+13:38:09.004075 - Upload image: {'success': True, 'data': [{'id': 3826, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:09.005072 - Creating add: Trying to create add with your settings
+13:38:09.017039 - Creating add: ('id: 1076, name: ', 'Random', ', description: 5476568435643')
+13:38:09.022025 - Upload image: Trying to upload random image
+13:38:09.286811 - Upload image: {'success': True, 'data': [{'id': 3827, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:09.291796 - Creating add: Trying to create add with your settings
+13:38:09.332693 - Upload image: {'success': True, 'data': [{'id': 3828, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:09.336684 - Creating add: Trying to create add with your settings
+13:38:09.356622 - Upload image: {'success': True, 'data': [{'id': 3829, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:09.359618 - Upload image: Trying to upload random image
+13:38:09.381556 - Creating add: ('id: 1077, name: ', '6', ', description: 23453453452345')
+13:38:09.386544 - Upload image: Trying to upload random image
+13:38:09.402498 - Creating add: ('id: 1078, name: ', '2', ', description: Testing now')
+13:38:09.405491 - Upload image: Trying to upload random image
+13:38:09.481335 - Upload image: {'success': True, 'data': [{'id': 3830, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:09.484286 - Creating add: Trying to create add with your settings
+13:38:09.580129 - Upload image: {'success': True, 'data': [{'id': 3831, 'hash': '43579d9490313474'}], 'error': []}
+13:38:09.583124 - Upload image: Trying to upload random image
+13:38:09.624011 - Creating add: Failed
+13:38:09.628998 - Creating add: ('id: 1079, name: ', 'Generator title', ', description: hnfdjkl54l743285v b3245f')
+13:38:09.635979 - Upload image: Trying to upload random image
+13:38:09.638968 - Upload image: Trying to upload random image
+13:38:09.698807 - Upload image: {'success': True, 'data': [{'id': 3832, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:09.699806 - Upload image: Trying to upload random image
+13:38:09.736708 - Upload image: {'success': True, 'data': [{'id': 3833, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:09.737706 - Upload image: Trying to upload random image
+13:38:09.745710 - Upload image: {'success': True, 'data': [{'id': 3834, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:09.747677 - Creating add: Trying to create add with your settings
+13:38:09.773636 - Creating add: ('id: 1080, name: ', 'Title', ', description: 5476568435643')
+13:38:09.775633 - Upload image: Trying to upload random image
+13:38:09.792558 - Upload image: {'success': True, 'data': [{'id': 3835, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:38:09.794553 - Upload image: Trying to upload random image
+13:38:09.859722 - Upload image: {'success': True, 'data': [{'id': 3836, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:09.860692 - Upload image: Trying to upload random image
+13:38:09.903581 - Upload image: Failed
+13:38:09.914548 - Upload image: {'success': True, 'data': [{'id': 3837, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:09.915547 - Upload image: {'success': True, 'data': [{'id': 3838, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:09.918544 - Upload image: Trying to upload random image
+13:38:09.920537 - Upload image: Trying to upload random image
+13:38:09.922527 - Upload image: Trying to upload random image
+13:38:09.973517 - Upload image: {'success': True, 'data': [{'id': 3839, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:09.974514 - Creating add: Trying to create add with your settings
+13:38:09.990473 - Creating add: ('id: 1081, name: ', "Here's new title", ', description: Description')
+13:38:09.993466 - Upload image: Trying to upload random image
+13:38:10.049569 - Upload image: {'success': True, 'data': [{'id': 3840, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:10.051565 - Creating add: Trying to create add with your settings
+13:38:10.076626 - Upload image: {'success': True, 'data': [{'id': 3841, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:10.077623 - Upload image: Trying to upload random image
+13:38:10.088592 - Creating add: Failed
+13:38:10.094576 - Upload image: Trying to upload random image
+13:38:10.130507 - Creating add: Failed
+13:38:10.134470 - Upload image: Trying to upload random image
+13:38:10.178616 - Upload image: {'success': True, 'data': [{'id': 3842, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:10.179587 - Upload image: Trying to upload random image
+13:38:10.200532 - Upload image: {'success': True, 'data': [{'id': 3843, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:10.201530 - Upload image: Trying to upload random image
+13:38:10.222472 - Upload image: {'success': True, 'data': [{'id': 3844, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:10.223493 - Upload image: Trying to upload random image
+13:38:10.273363 - Upload image: {'success': True, 'data': [{'id': 3845, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:10.275330 - Creating add: Trying to create add with your settings
+13:38:10.294280 - Upload image: {'success': True, 'data': [{'id': 3846, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:10.297276 - Upload image: Trying to upload random image
+13:38:10.312232 - Upload image: {'success': True, 'data': [{'id': 3847, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:10.314238 - Upload image: Trying to upload random image
+13:38:10.325197 - Upload image: {'success': True, 'data': [{'id': 3848, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:10.327192 - Upload image: Trying to upload random image
+13:38:10.335173 - Upload image: {'success': True, 'data': [{'id': 3849, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:10.337167 - Upload image: Trying to upload random image
+13:38:10.468133 - Upload image: {'success': True, 'data': [{'id': 3851, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:10.472153 - Upload image: {'success': True, 'data': [{'id': 3850, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:10.475120 - Upload image: Trying to upload random image
+13:38:10.476110 - Creating add: Trying to create add with your settings
+13:38:10.525982 - Upload image: {'success': True, 'data': [{'id': 3852, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:10.528967 - Creating add: Trying to create add with your settings
+13:38:10.553900 - Upload image: {'success': True, 'data': [{'id': 3853, 'hash': '2226262626662624'}], 'error': []}
+13:38:10.555895 - Upload image: Trying to upload random image
+13:38:10.574871 - Creating add: ('id: 1082, name: ', '5', ', description: 63513513.04132')
+13:38:10.576839 - Upload image: Trying to upload random image
+13:38:10.867795 - Upload image: {'success': True, 'data': [{'id': 3854, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:10.872743 - Upload image: Trying to upload random image
+13:38:10.904661 - Upload image: {'success': True, 'data': [{'id': 3855, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:10.908650 - Upload image: Trying to upload random image
+13:38:10.949564 - Creating add: ('id: 1083, name: ', "Here's new title", ', description: Description')
+13:38:10.952526 - Upload image: Trying to upload random image
+13:38:10.971476 - Creating add: ('id: 1084, name: ', 'Title', ', description: 63513513.04132')
+13:38:10.972474 - Registration: Registering with user testswapix403@gmail.com
+13:38:11.008376 - Upload image: {'success': True, 'data': [{'id': 3856, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:11.010379 - Upload image: Trying to upload random image
+13:38:11.044308 - Registration: Failed to get right response
+__________________________
+13:38:11.046277 - Authorization: Authorizing with user testswapix403@gmail.com
+13:38:11.073393 - Upload image: {'success': True, 'data': [{'id': 3857, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:11.075361 - Creating add: Trying to create add with your settings
+13:38:11.104311 - Upload image: {'success': True, 'data': [{'id': 3858, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:11.105281 - Creating add: Trying to create add with your settings
+13:38:11.130338 - Upload image: {'success': True, 'data': [{'id': 3859, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:11.131335 - Upload image: Trying to upload random image
+13:38:11.174252 - Upload image: {'success': True, 'data': [{'id': 3860, 'hash': '312b227470735671'}], 'error': []}
+13:38:11.176279 - Creating add: Trying to create add with your settings
+13:38:11.243186 - Upload image: {'success': True, 'data': [{'id': 3861, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:11.246151 - Upload image: Trying to upload random image
+13:38:11.285046 - Creating add: Failed
+13:38:11.293027 - Upload image: Trying to upload random image
+13:38:11.326933 - Creating add: ('id: 1085, name: ', '2', ', description: New description')
+13:38:11.328928 - Registration: Registering with user testswapix503@gmail.com
+13:38:12.291853 - Creating add: ('id: 1086, name: ', '6', ', description: Testing now')
+13:38:12.296843 - Registration: Registering with user testswapix303@gmail.com
+13:38:12.505396 - Upload image: {'success': True, 'data': [{'id': 3862, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:12.509347 - Upload image: Trying to upload random image
+13:38:12.586134 - Authorization: id: 17, email: testswapix403@gmail.com, token: zEe0AS-Ut_rfrbkxdkUh2z-IR9uHZdLC
+13:38:12.592160 - Upload image: Trying to upload random image
+13:38:12.609074 - Registration: Failed to get right response
+__________________________
+13:38:12.614064 - Authorization: Authorizing with user testswapix303@gmail.com
+13:38:12.626027 - Registration: Failed to get right response
+__________________________
+13:38:12.632011 - Authorization: Authorizing with user testswapix503@gmail.com
+13:38:12.645973 - Upload image: {'success': True, 'data': [{'id': 3863, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:12.648966 - Creating add: Trying to create add with your settings
+13:38:12.666919 - Upload image: {'success': True, 'data': [{'id': 3864, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:12.667915 - Creating add: Trying to create add with your settings
+13:38:13.026917 - Creating add: Failed
+13:38:13.040908 - Upload image: Trying to upload random image
+13:38:13.125120 - Creating add: ('id: 1087, name: ', 'Generator title', ', description: New description')
+13:38:13.127114 - Registration: Registering with user testswapix103@gmail.com
+13:38:13.146062 - Upload image: {'success': True, 'data': [{'id': 3865, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:13.148060 - Upload image: Trying to upload random image
+13:38:13.165012 - Authorization: id: 14, email: testswapix503@gmail.com, token: RCqGk6JvRINVcfIrqNr2mTsxf5sv-z7L
+13:38:13.169000 - Upload image: Trying to upload random image
+13:38:13.187977 - Upload image: {'success': True, 'data': [{'id': 3866, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:13.188948 - Upload image: Trying to upload random image
+13:38:13.205935 - Authorization: id: 16, email: testswapix303@gmail.com, token: 80u6wN46p98sMcjyw0_CZ8YXTlu7kjR_
+13:38:13.209926 - Registration: Failed to get right response
+__________________________
+13:38:13.211920 - Authorization: Authorizing with user testswapix103@gmail.com
+13:38:13.213924 - Upload image: Trying to upload random image
+13:38:13.343057 - Upload image: {'success': True, 'data': [{'id': 3867, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:13.349042 - Upload image: {'success': True, 'data': [{'id': 3868, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:13.353027 - Upload image: Trying to upload random image
+13:38:13.354024 - Upload image: Trying to upload random image
+13:38:13.366988 - Upload image: {'success': True, 'data': [{'id': 3869, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:13.373970 - Upload image: Trying to upload random image
+13:38:13.431813 - Upload image: {'success': True, 'data': [{'id': 3870, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:13.435803 - Creating add: Trying to create add with your settings
+13:38:13.488844 - Upload image: {'success': True, 'data': [{'id': 3871, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:13.490839 - Upload image: Trying to upload random image
+13:38:13.579300 - Upload image: {'success': True, 'data': [{'id': 3872, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:13.584281 - Upload image: Trying to upload random image
+13:38:13.624212 - Upload image: {'success': True, 'data': [{'id': 3873, 'hash': '2226262626662624'}], 'error': []}
+13:38:13.629165 - Creating add: Trying to create add with your settings
+13:38:13.673070 - Upload image: {'success': True, 'data': [{'id': 3874, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:13.675040 - Upload image: Trying to upload random image
+13:38:13.701964 - Creating add: ('id: 1088, name: ', 'Testing', ', description: New description')
+13:38:13.704958 - Upload image: Trying to upload random image
+13:38:13.733879 - Upload image: {'success': True, 'data': [{'id': 3875, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:13.734877 - Upload image: Trying to upload random image
+13:38:13.757941 - Upload image: {'success': True, 'data': [{'id': 3876, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:13.759935 - Upload image: Trying to upload random image
+13:38:13.778884 - Authorization: id: 15, email: testswapix103@gmail.com, token: XxnQDTIO4oht0JZsS2tjlXyaYBJoaXKO
+13:38:13.781880 - Upload image: Trying to upload random image
+13:38:13.809803 - Upload image: {'success': True, 'data': [{'id': 3877, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:13.813793 - Creating add: Trying to create add with your settings
+13:38:13.8137930 - Upload image: {'success': True, 'data': [{'id': 3878, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:13.815786 - Creating add: Trying to create add with your settings
+13:38:13.853721 - Upload image: {'success': True, 'data': [{'id': 3879, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:13.855716 - Creating add: Trying to create add with your settings
+13:38:13.907807 - Creating add: Failed
+13:38:13.910799 - Creating add: ('id: 1089, name: ', '3', ', description: New description')
+13:38:13.911799 - Registration: Registering with user testswapix203@gmail.com
+13:38:13.915786 - Creating add: Failed
+13:38:13.926760 - Upload image: Trying to upload random image
+13:38:13.930747 - Upload image: Trying to upload random image
+13:38:13.986850 - Registration: Failed to get right response
+__________________________
+13:38:13.988845 - Authorization: Authorizing with user testswapix203@gmail.com
+13:38:14.044187 - Upload image: {'success': True, 'data': [{'id': 3880, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:14.047177 - Upload image: Trying to upload random image
+13:38:14.081092 - Upload image: {'success': True, 'data': [{'id': 3881, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:14.083081 - Upload image: Trying to upload random image
+13:38:14.106019 - Creating add: ('id: 1090, name: ', 'Test', ', description: 315243341123351')
+13:38:14.108014 - Upload image: {'success': True, 'data': [{'id': 3882, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:14.110016 - Creating add: Trying to create add with your settings
+13:38:14.116991 - Upload image: Trying to upload random image
+13:38:14.154918 - Upload image: {'success': True, 'data': [{'id': 3883, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:14.197779 - Creating add: Trying to create add with your settings
+13:38:14.217854 - Upload image: {'success': True, 'data': [{'id': 3884, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:14.259445 - Upload image: Trying to upload random image
+13:38:14.305320 - Upload image: {'success': True, 'data': [{'id': 3885, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:14.306317 - Upload image: Trying to upload random image
+13:38:14.325271 - Creating add: ('id: 1091, name: ', '3', ', description: Random_description')
+13:38:14.329257 - Upload image: Trying to upload random image
+13:38:14.417435 - Upload image: {'success': True, 'data': [{'id': 3886, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:14.421379 - Creating add: Trying to create add with your settings
+13:38:14.483218 - Upload image: {'success': True, 'data': [{'id': 3887, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:14.485210 - Creating add: Trying to create add with your settings
+13:38:14.508187 - Authorization: id: 18, email: testswapix203@gmail.com, token: 1DGheCV5yLmAn_dWI3zBMBTlbbdes2ke
+13:38:14.514172 - Upload image: Trying to upload random image
+13:38:14.530130 - Creating add: Failed
+13:38:14.534118 - Upload image: Trying to upload random image
+13:38:14.560069 - Creating add: ('id: 1092, name: ', 'Random_title', ', description: hnfdjkl54l743285v b3245f')
+13:38:14.564060 - Upload image: Trying to upload random image
+13:38:14.587097 - Upload image: {'success': True, 'data': [{'id': 3888, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:14.588094 - Upload image: Trying to upload random image
+13:38:14.684174 - Upload image: {'success': True, 'data': [{'id': 3889, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:14.688159 - Upload image: Trying to upload random image
+13:38:14.720076 - Upload image: {'success': True, 'data': [{'id': 3892, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:14.706108 - Upload image: {'success': True, 'data': [{'id': 3891, 'hash': '2226262626662624'}], 'error': []}
+13:38:14.722073 - Upload image: {'success': True, 'data': [{'id': 3890, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:14.729048 - Creating add: Trying to create add with your settings
+13:38:14.727055 - Upload image: Trying to upload random image
+13:38:14.732045 - Upload image: Trying to upload random image
+13:38:14.751986 - Creating add: ('id: 1093, name: ', '2', ', description: New description')
+13:38:14.781905 - Upload image: Trying to upload random image
+13:38:14.982848 - Upload image: {'success': True, 'data': [{'id': 3893, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:14.987833 - Upload image: {'success': True, 'data': [{'id': 3894, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:14.991817 - Upload image: Trying to upload random image
+13:38:14.992815 - Upload image: Trying to upload random image
+13:38:15.004787 - Upload image: {'success': True, 'data': [{'id': 3895, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:15.009768 - Upload image: Trying to upload random image
+13:38:15.055644 - Upload image: {'success': True, 'data': [{'id': 3896, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:15.059634 - Upload image: Trying to upload random image
+13:38:15.127578 - Creating add: ('id: 1094, name: ', '2', ', description: 23453453452345')
+13:38:15.130571 - Upload image: Trying to upload random image
+13:38:15.165725 - Upload image: {'success': True, 'data': [{'id': 3897, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:15.166728 - Creating add: Trying to create add with your settings
+13:38:15.196644 - Upload image: {'success': True, 'data': [{'id': 3898, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:15.197669 - Upload image: Trying to upload random image
+13:38:15.224569 - Upload image: {'success': True, 'data': [{'id': 3899, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:15.226564 - Upload image: Trying to upload random image
+13:38:15.231549 - Upload image: {'success': True, 'data': [{'id': 3900, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:15.233545 - Upload image: Trying to upload random image
+13:38:15.255485 - Upload image: {'success': True, 'data': [{'id': 3901, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:15.256483 - Upload image: Trying to upload random image
+13:38:15.273437 - Upload image: {'success': True, 'data': [{'id': 3902, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:15.274436 - Upload image: Trying to upload random image
+13:38:15.315481 - Upload image: {'success': True, 'data': [{'id': 3903, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:15.316481 - Creating add: Trying to create add with your settings
+13:38:15.344375 - Upload image: {'success': True, 'data': [{'id': 3904, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:15.345374 - Creating add: Trying to create add with your settings
+13:38:15.353353 - Upload image: {'success': True, 'data': [{'id': 3905, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:15.355346 - Creating add: Trying to create add with your settings
+13:38:15.371304 - Upload image: {'success': True, 'data': [{'id': 3906, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:15.372303 - Upload image: Trying to upload random image
+13:38:15.402379 - Creating add: ('id: 1095, name: ', 'Testing', ', description: Random_description')
+13:38:15.405344 - Upload image: Trying to upload random image
+13:38:15.471450 - Upload image: {'success': True, 'data': [{'id': 3907, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:15.472449 - Upload image: Trying to upload random image
+13:38:15.537366 - Upload image: {'success': True, 'data': [{'id': 3908, 'hash': '1424262626363466'}], 'error': []}
+13:38:15.539362 - Upload image: Trying to upload random image
+13:38:15.576263 - Creating add: ('id: 1096, name: ', '2', ', description: This is a description')
+13:38:15.580253 - Upload image: Trying to upload random image
+13:38:15.608177 - Creating add: ('id: 1097, name: ', 'Title random second', ', description: 5476568435643')
+13:38:15.611169 - Upload image: Trying to upload random image
+13:38:15.631115 - Creating add: ('id: 1098, name: ', '10231', ', description: 102321436ty53fvg45f')
+13:38:15.634138 - Upload image: Trying to upload random image
+13:38:15.650064 - Upload image: {'success': True, 'data': [{'id': 3910, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:15.653059 - Upload image: {'success': True, 'data': [{'id': 3909, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:15.654055 - Upload image: Trying to upload random image
+13:38:15.655051 - Upload image: Trying to upload random image
+13:38:15.681979 - Upload image: {'success': True, 'data': [{'id': 3911, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:15.683974 - Upload image: Trying to upload random image
+13:38:15.840993 - Upload image: {'success': True, 'data': [{'id': 3912, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:15.844979 - Upload image: Trying to upload random image
+13:38:15.866952 - Upload image: {'success': True, 'data': [{'id': 3913, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:15.872905 - Creating add: Trying to create add with your settings
+13:38:15.888867 - Upload image: {'success': True, 'data': [{'id': 3914, 'hash': '1424262626363466'}], 'error': []}
+13:38:15.900828 - Upload image: Trying to upload random image
+13:38:15.901829 - Upload image: {'success': True, 'data': [{'id': 3915, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:15.904820 - Upload image: Trying to upload random image
+13:38:16.010539 - Upload image: {'success': True, 'data': [{'id': 3916, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:16.015523 - Upload image: Trying to upload random image
+13:38:16.037496 - Upload image: {'success': True, 'data': [{'id': 3917, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:16.048436 - Upload image: {'success': True, 'data': [{'id': 3918, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:16.053424 - Upload image: Trying to upload random image
+13:38:16.055417 - Upload image: Trying to upload random image
+13:38:16.091320 - Upload image: {'success': True, 'data': [{'id': 3919, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:16.095308 - Upload image: Trying to upload random image
+13:38:16.135201 - Creating add: ('id: 1099, name: ', 'Generator title', ', description: New description')
+13:38:16.137223 - Upload image: Trying to upload random image
+13:38:16.231151 - Upload image: {'success': True, 'data': [{'id': 3920, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:16.235140 - Upload image: Trying to upload random image
+13:38:16.247103 - Upload image: {'success': True, 'data': [{'id': 3921, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:16.251090 - Creating add: Trying to create add with your settings
+13:38:16.284003 - Upload image: {'success': True, 'data': [{'id': 3922, 'hash': '2226262626662624'}], 'error': []}
+13:38:16.288989 - Creating add: Trying to create add with your settings
+13:38:16.305943 - Upload image: {'success': True, 'data': [{'id': 3923, 'hash': '2226262626662624'}], 'error': []}
+13:38:16.311927 - Upload image: Trying to upload random image
+13:38:16.322896 - Upload image: {'success': True, 'data': [{'id': 3924, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:16.325888 - Creating add: Trying to create add with your settings
+13:38:16.400689 - Creating add: Failed
+13:38:16.404705 - Upload image: Trying to upload random image
+13:38:16.414656 - Upload image: {'success': True, 'data': [{'id': 3925, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:16.420639 - Upload image: Trying to upload random image
+13:38:16.455542 - Upload image: {'success': True, 'data': [{'id': 3926, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:16.457539 - Creating add: Trying to create add with your settings
+13:38:16.526354 - Upload image: {'success': True, 'data': [{'id': 3927, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:16.527394 - Upload image: Trying to upload random image
+13:38:16.553307 - Creating add: Failed
+13:38:16.557271 - Upload image: Trying to upload random image
+13:38:16.594198 - Creating add: ('id: 1101, name: ', 'Random_title', ', description: 23453453452345')
+13:38:16.597163 - Upload image: Trying to upload random image
+13:38:16.611127 - Creating add: ('id: 1100, name: ', 'Generator title', ', description: New description')
+13:38:16.614120 - Upload image: Trying to upload random image
+13:38:16.619104 - Upload image: {'success': True, 'data': [{'id': 3929, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:16.622096 - Upload image: {'success': True, 'data': [{'id': 3928, 'hash': '2226262626662624'}], 'error': []}
+13:38:16.623094 - Creating add: Trying to create add with your settings
+13:38:16.648026 - Upload image: {'success': True, 'data': [{'id': 3930, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:16.650022 - Upload image: Trying to upload random image
+13:38:16.773125 - Upload image: {'success': True, 'data': [{'id': 3931, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:16.777089 - Upload image: Trying to upload random image
+13:38:16.789053 - Upload image: {'success': True, 'data': [{'id': 3932, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:16.794039 - Creating add: Trying to create add with your settings
+13:38:16.885037 - Creating add: ('id: 1102, name: ', '5', ', description: 102321436ty53fvg45f')
+13:38:16.888027 - Upload image: Trying to upload random image
+13:38:16.911961 - Creating add: Failed
+13:38:16.916920 - Upload image: Trying to upload random image
+13:38:16.933874 - Upload image: {'success': True, 'data': [{'id': 3933, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:16.934872 - Upload image: Trying to upload random image
+13:38:16.937863 - Upload image: {'success': True, 'data': [{'id': 3934, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:16.939862 - Upload image: Trying to upload random image
+13:38:16.969778 - Upload image: {'success': True, 'data': [{'id': 3935, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:16.971775 - Upload image: Trying to upload random image
+13:38:16.980751 - Upload image: {'success': True, 'data': [{'id': 3936, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:16.981775 - Upload image: Trying to upload random image
+13:38:17.025755 - Upload image: {'success': True, 'data': [{'id': 3937, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:17.027752 - Upload image: Trying to upload random image
+13:38:17.044706 - Upload image: {'success': True, 'data': [{'id': 3938, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:17.047698 - Creating add: Trying to create add with your settings
+13:38:17.056674 - Upload image: {'success': True, 'data': [{'id': 3939, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:17.064653 - Upload image: Trying to upload random image
+13:38:17.070636 - Upload image: {'success': True, 'data': [{'id': 3940, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:17.073629 - Upload image: Trying to upload random image
+13:38:17.101553 - Upload image: {'success': True, 'data': [{'id': 3941, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:17.102551 - Upload image: Trying to upload random image
+13:38:17.182545 - Upload image: {'success': True, 'data': [{'id': 3942, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:17.183542 - Creating add: Trying to create add with your settings
+13:38:17.196510 - Upload image: {'success': True, 'data': [{'id': 3943, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:17.199500 - Creating add: Trying to create add with your settings
+13:38:17.207479 - Upload image: {'success': True, 'data': [{'id': 3944, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:17.209474 - Creating add: Trying to create add with your settings
+13:38:17.236401 - Upload image: {'success': True, 'data': [{'id': 3945, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:17.239393 - Upload image: Trying to upload random image
+13:38:17.324172 - Creating add: Failed
+13:38:17.336178 - Upload image: Trying to upload random image
+13:38:17.348102 - Creating add: ('id: 1103, name: ', 'Title', ', description: 102321436ty53fvg45f')
+13:38:17.353133 - Upload image: {'success': True, 'data': [{'id': 3946, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:17.357082 - Creating add: Trying to create add with your settings
+13:38:17.366054 - Upload image: Trying to upload random image
+13:38:17.443305 - Upload image: {'success': True, 'data': [{'id': 3947, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:17.444303 - Upload image: Trying to upload random image
+13:38:17.459266 - Creating add: Failed
+13:38:17.468267 - Upload image: Trying to upload random image
+13:38:17.479212 - Creating add: ('id: 1104, name: ', '10231', ', description: 315243341123351')
+13:38:17.485221 - Upload image: Trying to upload random image
+13:38:17.493173 - Creating add: ('id: 1105, name: ', '1', ', description: Random_description')
+13:38:17.499156 - Upload image: Trying to upload random image
+13:38:17.537054 - Upload image: {'success': True, 'data': [{'id': 3948, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:17.539050 - Upload image: {'success': True, 'data': [{'id': 3949, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:17.540050 - Upload image: Trying to upload random image
+13:38:17.541044 - Upload image: Trying to upload random image
+13:38:17.630886 - Upload image: {'success': True, 'data': [{'id': 3950, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:17.631883 - Upload image: Trying to upload random image
+13:38:17.647843 - Upload image: {'success': True, 'data': [{'id': 3951, 'hash': '312b227470735671'}], 'error': []}
+13:38:17.649840 - Upload image: Trying to upload random image
+13:38:17.687763 - Upload image: {'success': True, 'data': [{'id': 3952, 'hash': '2226262626662624'}], 'error': []}
+13:38:17.691726 - Upload image: {'success': True, 'data': [{'id': 3954, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:17.693747 - Upload image: {'success': True, 'data': [{'id': 3953, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:17.695739 - Creating add: Trying to create add with your settings
+13:38:17.6957390 - Upload image: Trying to upload random image
+13:38:17.740623 - Upload image: {'success': True, 'data': [{'id': 3955, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:17.741591 - Creating add: Trying to create add with your settings
+13:38:17.798636 - Upload image: {'success': True, 'data': [{'id': 3956, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:17.801626 - Creating add: Trying to create add with your settings
+13:38:17.818583 - Upload image: {'success': True, 'data': [{'id': 3957, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:17.820576 - Upload image: Trying to upload random image
+13:38:17.847503 - Upload image: {'success': True, 'data': [{'id': 3958, 'hash': '2226262626662624'}], 'error': []}
+13:38:17.848500 - Upload image: Trying to upload random image
+13:38:17.971560 - Creating add: ('id: 1106, name: ', '5', ', description: 45234532452367')
+13:38:17.981535 - Upload image: {'success': True, 'data': [{'id': 3959, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:17.985519 - Creating add: Trying to create add with your settings
+13:38:18.005461 - Upload image: Trying to upload random image
+13:38:18.011452 - Upload image: {'success': True, 'data': [{'id': 3960, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:18.019424 - Upload image: Trying to upload random image
+13:38:18.035382 - Creating add: ('id: 1107, name: ', 'Title random second', ', description: hnfdjkl54l743285v b3245f')
+13:38:18.050342 - Upload image: Trying to upload random image
+13:38:18.064303 - Creating add: ('id: 1108, name: ', 'Title', ', description: 5476568435643')
+13:38:18.069289 - Upload image: Trying to upload random image
+13:38:18.169144 - Upload image: {'success': True, 'data': [{'id': 3962, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:18.176123 - Creating add: Trying to create add with your settings
+13:38:18.182103 - Upload image: {'success': True, 'data': [{'id': 3961, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:18.187096 - Creating add: Trying to create add with your settings
+13:38:18.219004 - Upload image: {'success': True, 'data': [{'id': 3963, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:18.222997 - Upload image: Trying to upload random image
+13:38:18.242940 - Upload image: {'success': True, 'data': [{'id': 3964, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:18.244933 - Upload image: Trying to upload random image
+13:38:18.261889 - Creating add: ('id: 1109, name: ', 'Random_title', ', description: 23453453452345')
+13:38:18.265878 - Upload image: Trying to upload random image
+13:38:18.350898 - Upload image: {'success': True, 'data': [{'id': 3965, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:18.354893 - Upload image: {'success': True, 'data': [{'id': 3966, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:18.360871 - Upload image: {'success': True, 'data': [{'id': 3967, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:18.365858 - Upload image: Trying to upload random image
+13:38:18.367859 - Upload image: Trying to upload random image
+13:38:18.368857 - Upload image: Trying to upload random image
+13:38:18.467776 - Creating add: ('id: 1110, name: ', '4', ', description: New description')
+13:38:18.470794 - Upload image: Trying to upload random image
+13:38:18.482734 - Creating add: ('id: 1111, name: ', "Here's new title", ', description: Test description')
+13:38:18.486753 - Upload image: Trying to upload random image
+13:38:18.519636 - Upload image: {'success': True, 'data': [{'id': 3968, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:18.520637 - Upload image: Trying to upload random image
+13:38:18.552546 - Upload image: {'success': True, 'data': [{'id': 3969, 'hash': '312b227470735671'}], 'error': []}
+13:38:18.553544 - Upload image: Trying to upload random image
+13:38:18.566509 - Upload image: {'success': True, 'data': [{'id': 3970, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:18.568507 - Upload image: Trying to upload random image
+13:38:18.594567 - Upload image: {'success': True, 'data': [{'id': 3971, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:18.596561 - Upload image: Trying to upload random image
+13:38:18.655512 - Upload image: {'success': True, 'data': [{'id': 3972, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:18.657505 - Upload image: Trying to upload random image
+13:38:18.670471 - Upload image: {'success': True, 'data': [{'id': 3974, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:18.672497 - Upload image: {'success': True, 'data': [{'id': 3973, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:18.675461 - Creating add: Trying to create add with your settings
+13:38:18.678450 - Creating add: Trying to create add with your settings
+13:38:18.682467 - Upload image: {'success': True, 'data': [{'id': 3975, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:18.688422 - Upload image: Trying to upload random image
+13:38:18.709366 - Upload image: {'success': True, 'data': [{'id': 3976, 'hash': '1424262626363466'}], 'error': []}
+13:38:18.717345 - Creating add: Trying to create add with your settings
+13:38:18.790155 - Upload image: {'success': True, 'data': [{'id': 3977, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:18.794179 - Upload image: Trying to upload random image
+13:38:18.843009 - Upload image: {'success': True, 'data': [{'id': 3978, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:18.846999 - Upload image: Trying to upload random image
+13:38:18.935167 - Upload image: {'success': True, 'data': [{'id': 3979, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:18.939149 - Creating add: Trying to create add with your settings
+13:38:18.967078 - Creating add: ('id: 1113, name: ', 'Random_title', ', description: Description')
+13:38:18.978089 - Upload image: {'success': True, 'data': [{'id': 3980, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:18.985025 - Creating add: ('id: 1114, name: ', '1', ', description: This is a description')
+13:38:18.986025 - Upload image: Trying to upload random image
+13:38:18.987020 - Upload image: Trying to upload random image
+13:38:18.990012 - Creating add: ('id: 1112, name: ', 'Generator title', ', description: Test description')
+13:38:18.998988 - Upload image: Trying to upload random image
+13:38:19.004971 - Upload image: Trying to upload random image
+13:38:19.151443 - Upload image: {'success': True, 'data': [{'id': 3981, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:19.159425 - Creating add: Trying to create add with your settings
+13:38:19.168404 - Upload image: {'success': True, 'data': [{'id': 3982, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:19.174388 - Upload image: {'success': True, 'data': [{'id': 3983, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:19.179368 - Upload image: Trying to upload random image
+13:38:19.181370 - Upload image: Trying to upload random image
+13:38:19.215280 - Upload image: {'success': True, 'data': [{'id': 3984, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:19.221267 - Upload image: Trying to upload random image
+13:38:19.290070 - Creating add: ('id: 1115, name: ', '10231', ', description: 231321')
+13:38:19.293063 - Upload image: Trying to upload random image
+13:38:19.365130 - Upload image: {'success': True, 'data': [{'id': 3985, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:19.368129 - Upload image: Trying to upload random image
+13:38:19.428112 - Upload image: {'success': True, 'data': [{'id': 3986, 'hash': '2226262626662624'}], 'error': []}
+13:38:19.430107 - Upload image: Trying to upload random image
+13:38:19.432103 - Upload image: {'success': True, 'data': [{'id': 3987, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:19.433130 - Upload image: Trying to upload random image
+13:38:19.447062 - Upload image: {'success': True, 'data': [{'id': 3988, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:19.449056 - Upload image: Trying to upload random image
+13:38:19.466011 - Creating add: ('id: 1116, name: ', 'Random', ', description: Description')
+13:38:19.470002 - Upload image: Trying to upload random image
+13:38:19.533860 - Upload image: {'success': True, 'data': [{'id': 3989, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:19.535883 - Upload image: {'success': True, 'data': [{'id': 3990, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:19.536854 - Upload image: Trying to upload random image
+13:38:19.537850 - Upload image: Trying to upload random image
+13:38:19.553935 - Upload image: {'success': True, 'data': [{'id': 3991, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:19.554932 - Upload image: Trying to upload random image
+13:38:19.568927 - Upload image: {'success': True, 'data': [{'id': 3992, 'hash': '1424262626363466'}], 'error': []}
+13:38:19.570922 - Creating add: Trying to create add with your settings
+13:38:19.606825 - Upload image: {'success': True, 'data': [{'id': 3993, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:19.608789 - Creating add: Trying to create add with your settings
+13:38:19.618763 - Upload image: {'success': True, 'data': [{'id': 3994, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:19.620756 - Upload image: Trying to upload random image
+13:38:19.622759 - Upload image: {'success': True, 'data': [{'id': 3995, 'hash': '312b227470735671'}], 'error': []}
+13:38:19.623748 - Upload image: Trying to upload random image
+13:38:19.638714 - Creating add: Failed
+13:38:19.641701 - Registration: Registering with user testswapix404@gmail.com
+13:38:19.689779 - Upload image: {'success': True, 'data': [{'id': 3996, 'hash': '43579d9490313474'}], 'error': []}
+13:38:19.691766 - Upload image: Trying to upload random image
+13:38:19.714704 - Registration: Failed to get right response
+__________________________
+13:38:19.716700 - Authorization: Authorizing with user testswapix404@gmail.com
+13:38:19.750608 - Upload image: {'success': True, 'data': [{'id': 3997, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:19.752604 - Creating add: Trying to create add with your settings
+13:38:19.787541 - Upload image: {'success': True, 'data': [{'id': 3998, 'hash': '43579d9490313474'}], 'error': []}
+13:38:19.789535 - Upload image: Trying to upload random image
+13:38:19.836442 - Upload image: {'success': True, 'data': [{'id': 3999, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:19.838436 - Creating add: Trying to create add with your settings
+13:38:19.843454 - Creating add: ('id: 1117, name: ', 'Random_title', ', description: 5476568435643')
+13:38:19.846416 - Upload image: Trying to upload random image
+13:38:19.986591 - Upload image: {'success': True, 'data': [{'id': 4000, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:19.990577 - Upload image: Trying to upload random image
+13:38:20.014516 - Creating add: ('id: 1118, name: ', '3', ', description: 23453453452345')
+13:38:20.028471 - Upload image: {'success': True, 'data': [{'id': 4001, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:20.030468 - Upload image: Trying to upload random image
+13:38:20.032461 - Creating add: Trying to create add with your settings
+13:38:20.114243 - Creating add: ('id: 1119, name: ', '3', ', description: 23453453452345')
+13:38:20.118230 - Upload image: Trying to upload random image
+13:38:20.183058 - Upload image: {'success': True, 'data': [{'id': 4002, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:20.185052 - Upload image: Trying to upload random image
+13:38:20.213976 - Upload image: {'success': True, 'data': [{'id': 4003, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:20.214985 - Upload image: Trying to upload random image
+13:38:20.237909 - Upload image: {'success': True, 'data': [{'id': 4004, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:20.239907 - Upload image: Trying to upload random image
+13:38:20.248881 - Authorization: id: 22, email: testswapix404@gmail.com, token: acqdVbd6o5J1sR8HlijB70pbYgDY-MSh
+13:38:20.252870 - Upload image: Trying to upload random image
+13:38:20.281794 - Upload image: {'success': True, 'data': [{'id': 4005, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:20.283788 - Creating add: Trying to create add with your settings
+13:38:20.296752 - Creating add: ('id: 1120, name: ', '10231', ', description: hnfdjkl54l743285v b3245f')
+13:38:20.300743 - Upload image: Trying to upload random image
+13:38:20.309718 - Upload image: {'success': True, 'data': [{'id': 4006, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:20.311713 - Creating add: Trying to create add with your settings
+13:38:20.333654 - Upload image: {'success': True, 'data': [{'id': 4007, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:20.336646 - Upload image: Trying to upload random image
+13:38:20.337647 - Upload image: {'success': True, 'data': [{'id': 4008, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:20.340636 - Upload image: Trying to upload random image
+13:38:20.383522 - Creating add: Failed
+13:38:20.387509 - Upload image: Trying to upload random image
+13:38:20.434413 - Upload image: {'success': True, 'data': [{'id': 4009, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:20.435401 - Upload image: Trying to upload random image
+13:38:20.449346 - Upload image: {'success': True, 'data': [{'id': 4011, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:20.452339 - Upload image: {'success': True, 'data': [{'id': 4010, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:20.4523390 - Creating add: Trying to create add with your settings
+13:38:20.453335 - Creating add: Trying to create add with your settings
+13:38:20.468294 - Upload image: {'success': True, 'data': [{'id': 4012, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:20.471286 - Upload image: Trying to upload random image
+13:38:20.509214 - Creating add: ('id: 1121, name: ', 'Random', ', description: Testing now')
+13:38:20.512203 - Upload image: Trying to upload random image
+13:38:20.538108 - Creating add: Failed
+13:38:20.542096 - Upload image: Trying to upload random image
+13:38:20.559051 - Upload image: {'success': True, 'data': [{'id': 4013, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:20.560079 - Creating add: Trying to create add with your settings
+13:38:20.601208 - Upload image: {'success': True, 'data': [{'id': 4014, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:20.602206 - Creating add: Trying to create add with your settings
+13:38:20.639105 - Upload image: {'success': True, 'data': [{'id': 4015, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:20.640103 - Upload image: Trying to upload random image
+13:38:20.669025 - Upload image: {'success': True, 'data': [{'id': 4016, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:20.670023 - Upload image: Trying to upload random image
+13:38:20.723344 - Creating add: ('id: 1122, name: ', 'Test', ', description: hnfdjkl54l743285v b3245f')
+13:38:20.733287 - Upload image: {'success': True, 'data': [{'id': 4017, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:20.737276 - Creating add: Trying to create add with your settings
+13:38:20.742268 - Upload image: Trying to upload random image
+13:38:20.780162 - Upload image: {'success': True, 'data': [{'id': 4018, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:20.783157 - Creating add: Trying to create add with your settings
+13:38:20.835154 - Creating add: ('id: 1123, name: ', 'Title random second', ', description: Test description')
+13:38:20.838138 - Upload image: Trying to upload random image
+13:38:20.849084 - Upload image: {'success': True, 'data': [{'id': 4019, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:20.851076 - Upload image: Trying to upload random image
+13:38:20.858057 - Creating add: ('id: 1124, name: ', '5', ', description: New description')
+13:38:20.862047 - Registration: Registering with user testswapix304@gmail.com
+13:38:20.929035 - Registration: Failed to get right response
+__________________________
+13:38:20.931004 - Authorization: Authorizing with user testswapix304@gmail.com
+13:38:20.970972 - Upload image: {'success': True, 'data': [{'id': 4020, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:20.971968 - Upload image: Trying to upload random image
+13:38:20.974960 - Upload image: {'success': True, 'data': [{'id': 4021, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:20.975968 - Upload image: Trying to upload random image
+13:38:21.029972 - Creating add: ('id: 1126, name: ', 'Random', ', description: This is a description')
+13:38:21.031966 - Registration: Registering with user testswapix104@gmail.com
+13:38:21.037951 - Creating add: ('id: 1125, name: ', 'Title random second', ', description: 45234532452367')
+13:38:21.039944 - Registration: Registering with user testswapix504@gmail.com
+13:38:21.056899 - Upload image: {'success': True, 'data': [{'id': 4022, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:21.058894 - Upload image: Trying to upload random image
+13:38:21.076847 - Upload image: {'success': True, 'data': [{'id': 4023, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:21.077843 - Creating add: Trying to create add with your settings
+13:38:21.086821 - Registration: Failed to get right response
+__________________________
+13:38:21.088814 - Authorization: Authorizing with user testswapix104@gmail.com
+13:38:21.099784 - Registration: Failed to get right response
+__________________________
+13:38:21.102781 - Authorization: Authorizing with user testswapix504@gmail.com
+13:38:21.143726 - Upload image: {'success': True, 'data': [{'id': 4024, 'hash': '326267696d496869'}], 'error': []}
+13:38:21.144696 - Creating add: Trying to create add with your settings
+13:38:21.322745 - Creating add: ('id: 1127, name: ', 'Generator title', ', description: 231321')
+13:38:21.330764 - Upload image: Trying to upload random image
+13:38:21.479864 - Authorization: id: 21, email: testswapix304@gmail.com, token: PpzGh8UGisnX0CsTqU-JbrFn56Jr8hu4
+13:38:21.489880 - Upload image: Trying to upload random image
+13:38:21.541822 - Creating add: ('id: 1128, name: ', 'Generator title', ', description: Testing now')
+13:38:21.549800 - Upload image: Trying to upload random image
+13:38:21.581714 - Upload image: {'success': True, 'data': [{'id': 4025, 'hash': '1424262626363466'}], 'error': []}
+13:38:21.583738 - Upload image: Trying to upload random image
+13:38:21.621606 - Authorization: id: 19, email: testswapix504@gmail.com, token: 4d9dpHVCpiccw2B6YBvD6Jao63n-D7G8
+13:38:21.625606 - Authorization: id: 20, email: testswapix104@gmail.com, token: paWCJgbvOYnQ5xjmzl7tHgI_OYtTuj6e
+13:38:21.627589 - Upload image: Trying to upload random image
+13:38:21.631579 - Upload image: Trying to upload random image
+13:38:21.708617 - Upload image: {'success': True, 'data': [{'id': 4026, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:21.710612 - Upload image: Trying to upload random image
+13:38:21.736549 - Upload image: {'success': True, 'data': [{'id': 4028, 'hash': '4f4d4d6ccc0c65e8'}], 'error': []}
+13:38:21.741530 - Upload image: {'success': True, 'data': [{'id': 4027, 'hash': '2226262626662624'}], 'error': []}
+13:38:21.744524 - Upload image: Trying to upload random image
+13:38:21.745521 - Creating add: Trying to create add with your settings
+13:38:21.750505 - Upload image: {'success': True, 'data': [{'id': 4029, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:21.753500 - Creating add: Trying to create add with your settings
+13:38:21.775438 - Upload image: {'success': True, 'data': [{'id': 4030, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:21.782420 - Creating add: Trying to create add with your settings
+13:38:21.952931 - Upload image: {'success': True, 'data': [{'id': 4031, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:21.956882 - Upload image: Trying to upload random image
+13:38:21.989798 - Upload image: {'success': True, 'data': [{'id': 4032, 'hash': '2226262626662624'}], 'error': []}
+13:38:21.994782 - Creating add: Trying to create add with your settings
+13:38:22.096128 - Creating add: Failed
+13:38:22.104108 - Registration: Registering with user testswapix204@gmail.com
+13:38:22.122060 - Creating add: ('id: 1130, name: ', 'Random_title', ', description: 102321436ty53fvg45f')
+13:38:22.153977 - Upload image: {'success': True, 'data': [{'id': 4033, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:22.151983 - Creating add: ('id: 1129, name: ', 'Random', ', description: 23453453452345')
+13:38:22.163947 - Creating add: ('id: 1131, name: ', '6', ', description: 231321')
+13:38:22.166936 - Upload image: Trying to upload random image
+13:38:22.172923 - Upload image: Trying to upload random image
+13:38:22.177907 - Upload image: Trying to upload random image
+13:38:22.179902 - Upload image: Trying to upload random image
+13:38:22.231762 - Registration: Failed to get right response
+__________________________
+13:38:22.234754 - Authorization: Authorizing with user testswapix204@gmail.com
+13:38:22.332582 - Upload image: {'success': True, 'data': [{'id': 4034, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:22.336575 - Upload image: Trying to upload random image
+13:38:22.354523 - Upload image: {'success': True, 'data': [{'id': 4035, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:22.363499 - Upload image: Trying to upload random image
+13:38:22.364498 - Upload image: {'success': True, 'data': [{'id': 4036, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:22.369483 - Upload image: Trying to upload random image
+13:38:22.469257 - Upload image: {'success': True, 'data': [{'id': 4037, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:22.473205 - Upload image: Trying to upload random image
+13:38:22.521082 - Upload image: {'success': True, 'data': [{'id': 4038, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:22.524074 - Upload image: Trying to upload random image
+13:38:22.558974 - Upload image: {'success': True, 'data': [{'id': 4039, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:22.559972 - Creating add: Trying to create add with your settings
+13:38:22.578921 - Upload image: {'success': True, 'data': [{'id': 4040, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:22.580916 - Creating add: Trying to create add with your settings
+13:38:22.613856 - Upload image: {'success': True, 'data': [{'id': 4041, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:22.614825 - Upload image: Trying to upload random image
+13:38:22.620810 - Upload image: {'success': True, 'data': [{'id': 4042, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:22.622804 - Creating add: Trying to create add with your settings
+13:38:22.701755 - Creating add: Failed
+13:38:22.708738 - Upload image: Trying to upload random image
+13:38:22.817449 - Authorization: id: 23, email: testswapix204@gmail.com, token: M6pDBlPAPVEo8oNjg9JC0v3oEBnLO7Rf
+13:38:22.827429 - Upload image: Trying to upload random image
+13:38:22.837394 - Upload image: {'success': True, 'data': [{'id': 4043, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:22.841384 - Upload image: Trying to upload random image
+13:38:22.853361 - Creating add: ('id: 1132, name: ', 'Title', ', description: 23453453452345')
+13:38:22.859339 - Creating add: ('id: 1133, name: ', '5', ', description: This is a description')
+13:38:22.873300 - Upload image: {'success': True, 'data': [{'id': 4044, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:22.880280 - Creating add: Trying to create add with your settings
+13:38:22.889254 - Upload image: Trying to upload random image
+13:38:22.891249 - Upload image: Trying to upload random image
+13:38:22.982009 - Creating add: Failed
+13:38:22.988992 - Upload image: Trying to upload random image
+13:38:23.038997 - Upload image: {'success': True, 'data': [{'id': 4045, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:23.041988 - Upload image: Trying to upload random image
+13:38:23.087864 - Upload image: {'success': True, 'data': [{'id': 4046, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:23.088862 - Creating add: Trying to create add with your settings
+13:38:23.124872 - Upload image: {'success': True, 'data': [{'id': 4047, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:23.125870 - Upload image: Trying to upload random image
+13:38:23.138835 - Upload image: {'success': True, 'data': [{'id': 4048, 'hash': '2226262626662624'}], 'error': []}
+13:38:23.140831 - Upload image: Trying to upload random image
+13:38:23.190696 - Upload image: {'success': True, 'data': [{'id': 4049, 'hash': 'c0d0f8f8eaeaeee8'}], 'error': []}
+13:38:23.192721 - Upload image: Trying to upload random image
+13:38:23.238693 - Upload image: {'success': True, 'data': [{'id': 4050, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:23.239690 - Upload image: Trying to upload random image
+13:38:23.273628 - Upload image: {'success': True, 'data': [{'id': 4051, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:23.274596 - Upload image: Trying to upload random image
+13:38:23.283600 - Upload image: {'success': True, 'data': [{'id': 4052, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:23.285567 - Upload image: Trying to upload random image
+13:38:23.347428 - Upload image: {'success': True, 'data': [{'id': 4053, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:23.348398 - Upload image: Trying to upload random image
+13:38:23.359369 - Creating add: ('id: 1134, name: ', '2', ', description: Random_description')
+13:38:23.361365 - Upload image: Trying to upload random image
+13:38:23.407413 - Upload image: {'success': True, 'data': [{'id': 4054, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:23.409408 - Upload image: Trying to upload random image
+13:38:23.418383 - Upload image: {'success': True, 'data': [{'id': 4055, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:23.419381 - Upload image: Trying to upload random image
+13:38:23.444417 - Upload image: {'success': True, 'data': [{'id': 4056, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:23.446411 - Upload image: Trying to upload random image
+13:38:23.458379 - Upload image: {'success': True, 'data': [{'id': 4057, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:23.460376 - Upload image: Trying to upload random image
+13:38:23.513523 - Upload image: {'success': True, 'data': [{'id': 4058, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:23.515490 - Upload image: Trying to upload random image
+13:38:23.522471 - Upload image: {'success': True, 'data': [{'id': 4059, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:23.524466 - Upload image: Trying to upload random image
+13:38:23.551393 - Upload image: {'success': True, 'data': [{'id': 4060, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:23.553388 - Creating add: Trying to create add with your settings
+13:38:23.564359 - Upload image: {'success': True, 'data': [{'id': 4061, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:23.571340 - Upload image: {'success': True, 'data': [{'id': 4062, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:23.570343 - Upload image: Trying to upload random image
+13:38:23.573335 - Upload image: Trying to upload random image
+13:38:23.719088 - Upload image: {'success': True, 'data': [{'id': 4064, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:23.738004 - Upload image: {'success': True, 'data': [{'id': 4065, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:23.728031 - Upload image: {'success': True, 'data': [{'id': 4063, 'hash': '326267696d496869'}], 'error': []}
+13:38:23.742986 - Upload image: {'success': True, 'data': [{'id': 4066, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:23.748971 - Creating add: Trying to create add with your settings
+13:38:23.750971 - Creating add: Trying to create add with your settings
+13:38:23.753956 - Upload image: Trying to upload random image
+13:38:23.752002 - Upload image: Trying to upload random image
+13:38:23.834769 - Creating add: ('id: 1135, name: ', '2', ', description: Description')
+13:38:23.837757 - Upload image: Trying to upload random image
+13:38:23.915760 - Upload image: {'success': True, 'data': [{'id': 4067, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:23.919781 - Creating add: Trying to create add with your settings
+13:38:23.940724 - Upload image: {'success': True, 'data': [{'id': 4068, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:23.945672 - Upload image: Trying to upload random image
+13:38:23.977586 - Upload image: {'success': True, 'data': [{'id': 4069, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:23.980581 - Creating add: Trying to create add with your settings
+13:38:24.041882 - Creating add: ('id: 1137, name: ', 'Generator title', ', description: Unique description')
+13:38:24.044901 - Upload image: Trying to upload random image
+13:38:24.050858 - Creating add: ('id: 1136, name: ', '1', ', description: New description')
+13:38:24.054848 - Upload image: Trying to upload random image
+13:38:24.079781 - Upload image: {'success': True, 'data': [{'id': 4070, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:24.081774 - Upload image: Trying to upload random image
+13:38:24.155834 - Upload image: {'success': True, 'data': [{'id': 4071, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:24.159819 - Creating add: Trying to create add with your settings
+13:38:24.231764 - Upload image: {'success': True, 'data': [{'id': 4072, 'hash': '312b227470735671'}], 'error': []}
+13:38:24.234710 - Upload image: Trying to upload random image
+13:38:24.239697 - Creating add: ('id: 1138, name: ', 'Generator title', ', description: hnfdjkl54l743285v b3245f')
+13:38:24.252667 - Upload image: Trying to upload random image
+13:38:24.271616 - Creating add: Failed
+13:38:24.272613 - Upload image: {'success': True, 'data': [{'id': 4073, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:24.281587 - Creating add: ('id: 1139, name: ', '2', ', description: Description')
+13:38:24.286580 - Upload image: Trying to upload random image
+13:38:24.294550 - Upload image: Trying to upload random image
+13:38:24.301531 - Upload image: Trying to upload random image
+13:38:24.467382 - Upload image: {'success': True, 'data': [{'id': 4074, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:24.472326 - Upload image: Trying to upload random image
+13:38:24.485290 - Upload image: {'success': True, 'data': [{'id': 4075, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:24.493315 - Upload image: {'success': True, 'data': [{'id': 4076, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:24.500250 - Upload image: Trying to upload random image
+13:38:24.499255 - Upload image: Trying to upload random image
+13:38:24.532207 - Upload image: {'success': True, 'data': [{'id': 4077, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:24.538190 - Upload image: {'success': True, 'data': [{'id': 4078, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:24.540184 - Creating add: Trying to create add with your settings
+13:38:24.541182 - Upload image: Trying to upload random image
+13:38:24.743238 - Upload image: {'success': True, 'data': [{'id': 4079, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:24.749185 - Upload image: Trying to upload random image
+13:38:24.757162 - Upload image: {'success': True, 'data': [{'id': 4080, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:24.761152 - Creating add: Trying to create add with your settings
+13:38:24.791073 - Upload image: {'success': True, 'data': [{'id': 4081, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:24.801050 - Upload image: {'success': True, 'data': [{'id': 4082, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:24.807033 - Upload image: Trying to upload random image
+13:38:24.806031 - Upload image: Trying to upload random image
+13:38:24.859887 - Creating add: ('id: 1140, name: ', 'Generator title', ', description: 45234532452367')
+13:38:24.864872 - Upload image: Trying to upload random image
+13:38:25.009728 - Upload image: {'success': True, 'data': [{'id': 4083, 'hash': 'cb99191979747474'}], 'error': []}
+13:38:25.014715 - Creating add: Trying to create add with your settings
+13:38:25.048629 - Upload image: {'success': True, 'data': [{'id': 4084, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:25.055605 - Creating add: ('id: 1141, name: ', 'Test', ', description: 5476568435643')
+13:38:25.060594 - Upload image: Trying to upload random image
+13:38:25.073559 - Upload image: Trying to upload random image
+13:38:25.090512 - Upload image: {'success': True, 'data': [{'id': 4085, 'hash': '2226262626662624'}], 'error': []}
+13:38:25.094500 - Creating add: Trying to create add with your settings
+13:38:25.137471 - Upload image: {'success': True, 'data': [{'id': 4086, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:25.139467 - Upload image: Trying to upload random image
+13:38:25.207631 - Upload image: {'success': True, 'data': [{'id': 4087, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:25.212615 - Upload image: Trying to upload random image
+13:38:25.222591 - Upload image: {'success': True, 'data': [{'id': 4088, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:25.226577 - Upload image: Trying to upload random image
+13:38:25.232557 - Upload image: {'success': True, 'data': [{'id': 4089, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:25.236548 - Creating add: Trying to create add with your settings
+13:38:25.317510 - Creating add: ('id: 1142, name: ', '5', ', description: This is a description')
+13:38:25.321501 - Upload image: Trying to upload random image
+13:38:25.353576 - Creating add: ('id: 1143, name: ', '2', ', description: Test description')
+13:38:25.356568 - Upload image: Trying to upload random image
+13:38:25.368536 - Upload image: {'success': True, 'data': [{'id': 4090, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:25.370536 - Upload image: Trying to upload random image
+13:38:25.450638 - Upload image: {'success': True, 'data': [{'id': 4091, 'hash': 'a0592949db59495b'}], 'error': []}
+13:38:25.455631 - Upload image: Trying to upload random image
+13:38:25.469580 - Upload image: {'success': True, 'data': [{'id': 4092, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:25.477597 - Upload image: {'success': True, 'data': [{'id': 4093, 'hash': '2226262626662624'}], 'error': []}
+13:38:25.483544 - Upload image: Trying to upload random image
+13:38:25.485543 - Creating add: Trying to create add with your settings
+13:38:25.505483 - Upload image: {'success': True, 'data': [{'id': 4094, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:25.511473 - Upload image: Trying to upload random image
+13:38:25.526427 - Creating add: ('id: 1144, name: ', '4', ', description: 102321436ty53fvg45f')
+13:38:25.537397 - Upload image: Trying to upload random image
+13:38:25.601353 - Creating add: Failed
+13:38:25.605378 - Upload image: Trying to upload random image
+13:38:25.621299 - Upload image: {'success': True, 'data': [{'id': 4096, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:25.622299 - Upload image: Trying to upload random image
+13:38:25.624292 - Upload image: {'success': True, 'data': [{'id': 4095, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:25.626287 - Upload image: Trying to upload random image
+13:38:25.694106 - Upload image: {'success': True, 'data': [{'id': 4098, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:25.696100 - Upload image: Trying to upload random image
+13:38:25.706089 - Upload image: {'success': True, 'data': [{'id': 4097, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:25.709066 - Upload image: Trying to upload random image
+13:38:25.740015 - Upload image: {'success': True, 'data': [{'id': 4099, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:25.742978 - Upload image: Trying to upload random image
+13:38:25.743972 - Upload image: {'success': True, 'data': [{'id': 4100, 'hash': '2226262626662624'}], 'error': []}
+13:38:25.745967 - Creating add: Trying to create add with your settings
+13:38:25.786856 - Upload image: {'success': True, 'data': [{'id': 4101, 'hash': '312b227470735671'}], 'error': []}
+13:38:25.787884 - Upload image: Trying to upload random image
+13:38:25.808798 - Upload image: {'success': True, 'data': [{'id': 4102, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:25.809796 - Creating add: Trying to create add with your settings
+13:38:25.814782 - Upload image: {'success': True, 'data': [{'id': 4103, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:25.816779 - Upload image: Trying to upload random image
+13:38:25.838747 - Upload image: {'success': True, 'data': [{'id': 4104, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:25.840714 - Creating add: Trying to create add with your settings
+13:38:25.966816 - Upload image: {'success': True, 'data': [{'id': 4105, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:25.971807 - Upload image: Trying to upload random image
+13:38:25.993747 - Upload image: {'success': True, 'data': [{'id': 4106, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:25.999724 - Upload image: Trying to upload random image
+13:38:26.013688 - Creating add: ('id: 1145, name: ', 'Title', ', description: 315243341123351')
+13:38:26.037622 - Upload image: Trying to upload random image
+13:38:26.064550 - Creating add: ('id: 1146, name: ', '4', ', description: 63513513.04132')
+13:38:26.068566 - Upload image: Trying to upload random image
+13:38:26.090486 - Creating add: ('id: 1147, name: ', 'Title random second', ', description: 45234532452367')
+13:38:26.093472 - Upload image: Trying to upload random image
+13:38:26.190215 - Upload image: {'success': True, 'data': [{'id': 4107, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:26.194207 - Upload image: Trying to upload random image
+13:38:26.215150 - Upload image: {'success': True, 'data': [{'id': 4108, 'hash': '326267696d496869'}], 'error': []}
+13:38:26.218141 - Upload image: {'success': True, 'data': [{'id': 4109, 'hash': '312b227470735671'}], 'error': []}
+13:38:26.224125 - Creating add: Trying to create add with your settings
+13:38:26.225123 - Upload image: Trying to upload random image
+13:38:26.242079 - Upload image: {'success': True, 'data': [{'id': 4110, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:26.247063 - Upload image: Trying to upload random image
+13:38:26.255042 - Upload image: {'success': True, 'data': [{'id': 4111, 'hash': '2226262626662624'}], 'error': []}
+13:38:26.259030 - Upload image: Trying to upload random image
+13:38:26.331834 - Creating add: Failed
+13:38:26.335855 - Upload image: Trying to upload random image
+13:38:26.424982 - Upload image: {'success': True, 'data': [{'id': 4112, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:26.429934 - Creating add: Trying to create add with your settings
+13:38:26.453869 - Upload image: {'success': True, 'data': [{'id': 4113, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:26.460849 - Upload image: {'success': True, 'data': [{'id': 4114, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:26.464838 - Upload image: Trying to upload random image
+13:38:26.473817 - Upload image: {'success': True, 'data': [{'id': 4115, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:26.465836 - Upload image: Trying to upload random image
+13:38:26.483787 - Upload image: Trying to upload random image
+13:38:26.489777 - Upload image: {'success': True, 'data': [{'id': 4116, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:26.504730 - Upload image: Trying to upload random image
+13:38:26.575542 - Creating add: Failed
+13:38:26.578534 - Upload image: {'success': True, 'data': [{'id': 4117, 'hash': '50506c6939350d0f'}], 'error': []}
+13:38:26.580527 - Upload image: Trying to upload random image
+13:38:26.582522 - Upload image: Trying to upload random image
+13:38:26.598479 - Upload image: {'success': True, 'data': [{'id': 4118, 'hash': '7a2ecb69292b6b6a'}], 'error': []}
+13:38:26.600475 - Upload image: Trying to upload random image
+13:38:26.620421 - Upload image: {'success': True, 'data': [{'id': 4119, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:26.621419 - Upload image: Trying to upload random image
+13:38:26.643359 - Upload image: {'success': True, 'data': [{'id': 4120, 'hash': '9dcc8c8dd3131f07'}], 'error': []}
+13:38:26.647349 - Creating add: Trying to create add with your settings
+13:38:26.680261 - Upload image: {'success': True, 'data': [{'id': 4121, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:26.683253 - Upload image: Trying to upload random image
+13:38:26.702203 - Upload image: {'success': True, 'data': [{'id': 4122, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:26.706192 - Creating add: Trying to create add with your settings
+13:38:26.726138 - Upload image: {'success': True, 'data': [{'id': 4123, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:26.728133 - Upload image: Trying to upload random image
+13:38:26.741098 - Upload image: {'success': True, 'data': [{'id': 4124, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:26.743092 - Upload image: Trying to upload random image
+13:38:26.826891 - Upload image: {'success': True, 'data': [{'id': 4125, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:26.828887 - Creating add: Trying to create add with your settings
+13:38:26.835867 - Upload image: {'success': True, 'data': [{'id': 4126, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:26.836865 - Creating add: Trying to create add with your settings
+13:38:26.903754 - Creating add: ('id: 1148, name: ', '4', ', description: 45234532452367')
+13:38:26.909746 - Upload image: Trying to upload random image
+13:38:26.927689 - Upload image: {'success': True, 'data': [{'id': 4127, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:26.931692 - Creating add: Trying to create add with your settings
+13:38:26.944644 - Creating add: Failed
+13:38:26.953620 - Upload image: Trying to upload random image
+13:38:26.998512 - Creating add: ('id: 1149, name: ', 'Generator title', ', description: 315243341123351')
+13:38:27.001494 - Upload image: Trying to upload random image
+13:38:27.008474 - Creating add: Failed
+13:38:27.017449 - Upload image: {'success': True, 'data': [{'id': 4128, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:27.018449 - Upload image: Trying to upload random image
+13:38:27.019444 - Upload image: Trying to upload random image
+13:38:27.050361 - Upload image: {'success': True, 'data': [{'id': 4129, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:27.053354 - Upload image: Trying to upload random image
+13:38:27.077289 - Creating add: ('id: 1150, name: ', '2', ', description: New description')
+13:38:27.083274 - Upload image: Trying to upload random image
+13:38:27.098244 - Upload image: Failed
+13:38:27.101225 - Upload image: Trying to upload random image
+13:38:27.111199 - Upload image: {'success': True, 'data': [{'id': 4130, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:27.117183 - Upload image: Trying to upload random image
+13:38:27.143128 - Upload image: Failed
+13:38:27.148101 - Upload image: Trying to upload random image
+13:38:27.161068 - Upload image: Failed
+13:38:27.168047 - Upload image: Trying to upload random image
+13:38:27.200959 - Upload image: {'success': True, 'data': [{'id': 4131, 'hash': '2226262626662624'}], 'error': []}
+13:38:27.203960 - Upload image: Trying to upload random image
+13:38:27.206951 - Upload image: {'success': True, 'data': [{'id': 4132, 'hash': '39a233d2da2a223a'}], 'error': []}
+13:38:27.209935 - Creating add: Trying to create add with your settings
+13:38:27.217913 - Upload image: {'success': True, 'data': [{'id': 4133, 'hash': '3b3ba9a9a8ede8f0'}], 'error': []}
+13:38:27.219924 - Creating add: Trying to create add with your settings
+13:38:27.248831 - Upload image: {'success': True, 'data': [{'id': 4134, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:27.252820 - Creating add: Trying to create add with your settings
+13:38:27.334610 - Upload image: {'success': True, 'data': [{'id': 4135, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:27.339589 - Upload image: {'success': True, 'data': [{'id': 4136, 'hash': '312b227470735671'}], 'error': []}
+13:38:27.345574 - Upload image: Trying to upload random image
+13:38:27.350561 - Upload image: Trying to upload random image
+13:38:27.457273 - Creating add: ('id: 1151, name: ', '1', ', description: Unique description')
+13:38:27.468244 - Upload image: Trying to upload random image
+13:38:27.477222 - Creating add: ('id: 1152, name: ', '4', ', description: Test description')
+13:38:27.493178 - Upload image: Trying to upload random image
+13:38:27.507144 - Upload image: {'success': True, 'data': [{'id': 4137, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:27.509135 - Creating add: Trying to create add with your settings
+13:38:27.536062 - Upload image: {'success': True, 'data': [{'id': 4138, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:27.544060 - Creating add: ('id: 1153, name: ', '4', ', description: 23453453452345')
+13:38:27.545039 - Upload image: Trying to upload random image
+13:38:27.560017 - Upload image: Trying to upload random image
+13:38:27.600889 - Upload image: {'success': True, 'data': [{'id': 4139, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:27.607886 - Upload image: Trying to upload random image
+13:38:27.614852 - Upload image: {'success': True, 'data': [{'id': 4140, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:27.620836 - Upload image: Trying to upload random image
+13:38:27.701620 - Upload image: {'success': True, 'data': [{'id': 4142, 'hash': '2e2c6cac2919391d'}], 'error': []}
+13:38:27.702617 - Upload image: Trying to upload random image
+13:38:27.709598 - Upload image: {'success': True, 'data': [{'id': 4141, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:27.710596 - Upload image: Trying to upload random image
+13:38:27.724558 - Upload image: {'success': True, 'data': [{'id': 4143, 'hash': 'c18585918183c347'}], 'error': []}
+13:38:27.726554 - Upload image: Trying to upload random image
+13:38:27.769439 - Creating add: ('id: 1154, name: ', '6', ', description: 231321')
+13:38:27.774425 - Upload image: Trying to upload random image
+13:38:27.802350 - Upload image: {'success': True, 'data': [{'id': 4144, 'hash': 'c9da53f1f1f9e3e3'}], 'error': []}
+13:38:27.804345 - Upload image: Trying to upload random image
+13:38:27.841247 - Upload image: {'success': True, 'data': [{'id': 4145, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:27.843241 - Creating add: Trying to create add with your settings
+13:38:27.853215 - Upload image: {'success': True, 'data': [{'id': 4146, 'hash': '704ccecceecece17'}], 'error': []}
+13:38:27.854212 - Upload image: {'success': True, 'data': [{'id': 4147, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:27.855208 - Upload image: Trying to upload random image
+13:38:27.856207 - Upload image: Trying to upload random image
+13:38:27.872163 - Upload image: {'success': True, 'data': [{'id': 4148, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:27.873162 - Upload image: Trying to upload random image
+13:38:27.894104 - Upload image: {'success': True, 'data': [{'id': 4149, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:27.903081 - Creating add: Trying to create add with your settings
+13:38:28.017961 - Upload image: {'success': True, 'data': [{'id': 4150, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:28.022944 - Upload image: Trying to upload random image
+13:38:28.068821 - Upload image: {'success': True, 'data': [{'id': 4151, 'hash': '2226262626662624'}], 'error': []}
+13:38:28.072808 - Upload image: Trying to upload random image
+13:38:28.074804 - Upload image: {'success': True, 'data': [{'id': 4152, 'hash': '62ce988a9b8e3232'}], 'error': []}
+13:38:28.075799 - Upload image: Trying to upload random image
+13:38:28.078797 - Creating add: ('id: 1155, name: ', '1', ', description: Random_description')
+13:38:28.080788 - Connect to DB: Starting
+13:38:28.091757 - Connect to DB: Connection established
+13:38:28.093752 - Approving ads with DB: Starting
+13:38:28.106717 - Approving ads with DB: Finished successfully
+13:38:28.147754 - Upload image: {'success': True, 'data': [{'id': 4153, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:28.148727 - Upload image: Trying to upload random image
+13:38:28.180745 - Upload image: {'success': True, 'data': [{'id': 4154, 'hash': '7266c7c78646060f'}], 'error': []}
+13:38:28.182740 - Creating add: Trying to create add with your settings
+13:38:28.197700 - Upload image: {'success': True, 'data': [{'id': 4155, 'hash': '97abcfc9d3d7d397'}], 'error': []}
+13:38:28.199695 - Creating add: Trying to create add with your settings
+13:38:28.216679 - Creating add: ('id: 1156, name: ', '6', ', description: New description')
+13:38:28.220639 - Upload image: Trying to upload random image
+13:38:28.265518 - Creating add: Failed
+13:38:28.270533 - Upload image: Trying to upload random image
+13:38:28.302419 - Upload image: {'success': True, 'data': [{'id': 4156, 'hash': '342622222232b2b2'}], 'error': []}
+13:38:28.304415 - Creating add: Trying to create add with your settings
+13:38:28.417113 - Creating add: ('id: 1157, name: ', 'Generator title', ', description: Random_description')
+13:38:28.422099 - Upload image: Trying to upload random image
+13:38:28.427086 - Upload image: {'success': True, 'data': [{'id': 4157, 'hash': '43579d9490313474'}], 'error': []}
+13:38:28.433070 - Creating add: Trying to create add with your settings
+13:38:28.466978 - Upload image: {'success': True, 'data': [{'id': 4158, 'hash': '0f0f0f1616161616'}], 'error': []}
+13:38:28.468974 - Upload image: Trying to upload random image
+13:38:28.533800 - Upload image: {'success': True, 'data': [{'id': 4159, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:28.535796 - Upload image: Trying to upload random image
+13:38:28.558734 - Creating add: ('id: 1158, name: ', 'Title', ', description: Testing now')
+13:38:28.563721 - Upload image: Trying to upload random image
+13:38:28.569704 - Upload image: {'success': True, 'data': [{'id': 4160, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:28.573694 - Creating add: Trying to create add with your settings
+13:38:28.661459 - Creating add: Failed
+13:38:28.667443 - Upload image: {'success': True, 'data': [{'id': 4161, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:28.674426 - Creating add: ('id: 1159, name: ', 'Random_title', ', description: 23453453452345')
+13:38:28.676420 - Connect to DB: Starting
+13:38:28.677417 - Creating add: Trying to create add with your settings
+13:38:28.683401 - Upload image: {'success': True, 'data': [{'id': 4162, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:28.687390 - Upload image: Trying to upload random image
+13:38:28.688389 - Upload image: Trying to upload random image
+13:38:28.693374 - Connect to DB: Connection established
+13:38:28.708334 - Approving ads with DB: Starting
+13:38:28.722296 - Approving ads with DB: Finished successfully
+13:38:28.895856 - Upload image: {'success': True, 'data': [{'id': 4163, 'hash': '999d9d9c1cd49473'}], 'error': []}
+13:38:28.897846 - Creating add: Trying to create add with your settings
+13:38:28.898845 - Upload image: {'success': True, 'data': [{'id': 4164, 'hash': '3149cccc4e4e0e4e'}], 'error': []}
+13:38:28.900837 - Upload image: Trying to upload random image
+13:38:29.011543 - Upload image: {'success': True, 'data': [{'id': 4165, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:29.015531 - Upload image: Trying to upload random image
+13:38:29.045479 - Creating add: ('id: 1160, name: ', 'Testing', ', description: 102321436ty53fvg45f')
+13:38:29.053429 - Upload image: Trying to upload random image
+13:38:29.088345 - Upload image: {'success': True, 'data': [{'id': 4166, 'hash': 'dc9a363656565676'}], 'error': []}
+13:38:29.090332 - Creating add: Trying to create add with your settings
+13:38:29.152178 - Creating add: ('id: 1161, name: ', '2', ', description: 45234532452367')
+13:38:29.156154 - Connect to DB: Starting
+13:38:29.168141 - Connect to DB: Connection established
+13:38:29.178105 - Upload image: {'success': True, 'data': [{'id': 4167, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:29.177099 - Approving ads with DB: Starting
+13:38:29.188070 - Upload image: Trying to upload random image
+13:38:29.193056 - Approving ads with DB: Finished successfully
+13:38:29.305756 - Upload image: {'success': True, 'data': [{'id': 4168, 'hash': 'f0e0f0e0c0819251'}], 'error': []}
+13:38:29.309745 - Upload image: Trying to upload random image
+13:38:29.320716 - Creating add: ('id: 1162, name: ', 'Random', ', description: New description')
+13:38:29.328693 - Upload image: Trying to upload random image
+13:38:29.458347 - Upload image: {'success': True, 'data': [{'id': 4169, 'hash': 'f0f6eded66ceba9c'}], 'error': []}
+13:38:29.460360 - Upload image: Trying to upload random image
+13:38:29.471321 - Upload image: {'success': True, 'data': [{'id': 4170, 'hash': '7879794ce8ec6870'}], 'error': []}
+13:38:29.488268 - Upload image: Trying to upload random image
+13:38:30.002314 - Upload image: {'success': True, 'data': [{'id': 4171, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:30.005264 - Upload image: Trying to upload random image
+13:38:30.035181 - Upload image: {'success': True, 'data': [{'id': 4172, 'hash': 'e9e9e9cdcdc9c9c8'}], 'error': []}
+13:38:30.037178 - Creating add: Trying to create add with your settings
+13:38:30.523466 - Upload image: {'success': True, 'data': [{'id': 4173, 'hash': 'd8c8cc8e844d6d6c'}], 'error': []}
+13:38:30.526414 - Upload image: Trying to upload random image
+13:38:30.671031 - Creating add: ('id: 1163, name: ', '1', ', description: 102321436ty53fvg45f')
+13:38:30.677055 - Upload image: Trying to upload random image
+13:38:30.876617 - Upload image: {'success': True, 'data': [{'id': 4174, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:30.882601 - Creating add: Trying to create add with your settings
+13:38:31.060953 - Upload image: {'success': True, 'data': [{'id': 4175, 'hash': '5c5cdede169e9797'}], 'error': []}
+13:38:31.067939 - Upload image: Trying to upload random image
+13:38:31.096857 - Creating add: ('id: 1164, name: ', 'Title', ', description: Test description')
+13:38:31.101844 - Upload image: Trying to upload random image
+13:38:31.189609 - Upload image: {'success': True, 'data': [{'id': 4176, 'hash': 'a9b9696828282a1c'}], 'error': []}
+13:38:31.194598 - Upload image: Trying to upload random image
+13:38:31.228506 - Upload image: {'success': True, 'data': [{'id': 4177, 'hash': 'b3dbe9d8f0f2e3a3'}], 'error': []}
+13:38:31.231498 - Upload image: Trying to upload random image
+13:38:31.452132 - Upload image: {'success': True, 'data': [{'id': 4178, 'hash': '922a2aaa3a3ab9b5'}], 'error': []}
+13:38:31.455171 - Creating add: Trying to create add with your settings
+13:38:31.493066 - Upload image: {'success': True, 'data': [{'id': 4179, 'hash': '0243030202161e1b'}], 'error': []}
+13:38:31.495018 - Upload image: Trying to upload random image
+13:38:31.575085 - Upload image: {'success': True, 'data': [{'id': 4180, 'hash': '3737333733323b3b'}], 'error': []}
+13:38:31.576082 - Upload image: Trying to upload random image
+13:38:31.660057 - Upload image: {'success': True, 'data': [{'id': 4181, 'hash': 'db556464644c5627'}], 'error': []}
+13:38:31.662051 - Creating add: Trying to create add with your settings
+13:38:31.684990 - Creating add: ('id: 1165, name: ', '4', ', description: hnfdjkl54l743285v b3245f')
+13:38:31.686986 - Connect to DB: Starting
+13:38:31.694089 - Connect to DB: Connection established
+13:38:31.695121 - Approving ads with DB: Starting
+13:38:31.702099 - Approving ads with DB: Finished successfully
+13:38:31.854793 - Creating add: ('id: 1166, name: ', '4', ', description: This is a description')
+13:38:31.856794 - Connect to DB: Starting
+13:38:31.864769 - Connect to DB: Connection established
+13:38:31.868756 - Approving ads with DB: Starting
+13:38:31.873741 - Approving ads with DB: Finished successfully

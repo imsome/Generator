@@ -1,0 +1,416 @@
+16:33:03.964263 - Connect to DB: Starting
+16:33:03.973240 - Connect to DB: Connection established
+16:33:03.974235 - Approving ads with DB: Starting
+16:33:03.981217 - Approving ads with DB: Finished successfully
+16:32:39.187983 - Connect to DB: Starting
+16:32:39.208927 - Connect to DB: Connection established
+16:32:58.813981 - Connect to DB: Starting
+16:32:58.836919 - Connect to DB: Connection established
+16:33:12.030860 - Connect to DB: Starting
+16:33:12.038838 - Connect to DB: Connection established
+16:33:37.012662 - Connect to DB: Starting
+16:33:37.023646 - Connect to DB: Connection established
+16:33:51.227749 - Connect to DB: Starting
+16:33:51.247840 - Connect to DB: Connection established
+16:33:59.816768 - Connect to DB: Starting
+16:33:59.826742 - Connect to DB: Connection established
+16:34:27.998914 - Connect to DB: Starting
+16:34:28.020862 - Connect to DB: Connection established
+16:35:48.183948 - Connect to DB: Starting
+16:35:48.195918 - Connect to DB: Connection established
+16:35:48.196913 - Approving ads with DB: Starting
+16:35:48.209878 - Approving ads with DB: Finished successfully
+16:36:58.790368 - Connect to DB: Starting
+16:36:58.811318 - Connect to DB: Connection established
+16:37:31.676878 - Connect to DB: Starting
+16:37:31.698820 - Connect to DB: Connection established
+16:38:15.235049 - Connect to DB: Starting
+16:38:15.247048 - Connect to DB: Connection established
+16:38:15.248005 - Approving ads with DB: Starting
+16:38:15.256985 - Approving ads with DB: Finished successfully
+16:38:30.163977 - Connect to DB: Starting
+16:38:30.185933 - Connect to DB: Connection established
+16:38:30.186915 - Approving ads with DB: Starting
+16:38:30.194892 - Approving ads with DB: Finished successfully
+16:38:35.332521 - Connect to DB: Starting
+16:38:35.354463 - Connect to DB: Connection established
+16:39:06.476789 - Connect to DB: Starting
+16:39:06.488757 - Connect to DB: Connection established
+16:39:39.078648 - Connect to DB: Starting
+16:39:39.099592 - Connect to DB: Connection established
+16:39:58.874074 - Connect to DB: Starting
+16:39:58.886023 - Connect to DB: Connection established
+16:40:07.544807 - Connect to DB: Starting
+16:40:07.569740 - Connect to DB: Connection established
+16:40:22.291427 - Connect to DB: Starting
+16:40:22.329325 - Connect to DB: Connection established
+16:40:33.619199 - Connect to DB: Starting
+16:40:33.667075 - Connect to DB: Connection established
+16:40:41.436444 - Connect to DB: Starting
+16:40:41.473356 - Connect to DB: Connection established
+16:42:35.454181 - Connect to DB: Starting
+16:42:35.472393 - Connect to DB: Connection established
+16:42:44.674216 - Connect to DB: Starting
+16:42:44.696420 - Connect to DB: Connection established
+16:42:57.860395 - Connect to DB: Starting
+16:42:57.867393 - Connect to DB: Connection established
+16:43:07.686044 - Connect to DB: Starting
+16:43:07.707987 - Connect to DB: Connection established
+16:43:13.223712 - Connect to DB: Starting
+16:43:13.235720 - Connect to DB: Connection established
+16:43:23.579857 - Connect to DB: Starting
+16:43:23.597818 - Connect to DB: Connection established
+16:43:36.560114 - Connect to DB: Starting
+16:43:36.572153 - Connect to DB: Connection established
+16:43:53.418865 - Connect to DB: Starting
+16:43:53.440805 - Connect to DB: Connection established
+16:44:00.533304 - Connect to DB: Starting
+16:44:00.541281 - Connect to DB: Connection established
+16:44:11.330859 - Connect to DB: Starting
+16:44:11.352801 - Connect to DB: Connection established
+16:44:21.847378 - Connect to DB: Starting
+16:44:21.866366 - Connect to DB: Connection established
+16:44:34.919126 - Connect to DB: Starting
+16:44:34.940137 - Connect to DB: Connection established
+16:44:43.310090 - Connect to DB: Starting
+16:44:43.330150 - Connect to DB: Connection established
+17:35:38.098305 - Connect to DB: Starting
+17:35:38.120016 - Connect to DB: Connection established
+17:35:44.445747 - Connect to DB: Starting
+17:35:44.452728 - Connect to DB: Connection established
+17:35:54.075567 - Connect to DB: Starting
+17:35:54.087533 - Connect to DB: Connection established
+17:36:04.848690 - Connect to DB: Starting
+17:36:04.861778 - Connect to DB: Connection established
+17:36:27.132595 - Connect to DB: Starting
+17:36:27.153513 - Connect to DB: Connection established
+17:36:37.591867 - Connect to DB: Starting
+17:36:37.602857 - Connect to DB: Connection established
+17:37:45.841110 - Connect to DB: Starting
+17:37:45.861058 - Connect to DB: Connection established
+17:37:58.666407 - Connect to DB: Starting
+17:37:58.680360 - Connect to DB: Connection established
+17:38:13.823624 - Connect to DB: Starting
+17:38:13.835603 - Connect to DB: Connection established
+17:38:24.514270 - Connect to DB: Starting
+17:38:24.526254 - Connect to DB: Connection established
+17:38:29.957925 - Connect to DB: Starting
+17:38:29.968901 - Connect to DB: Connection established
+17:38:41.591010 - Connect to DB: Starting
+17:38:41.602987 - Connect to DB: Connection established
+17:38:51.864159 - Connect to DB: Starting
+17:38:51.875129 - Connect to DB: Connection established
+17:38:59.944405 - Connect to DB: Starting
+17:38:59.954379 - Connect to DB: Connection established
+17:39:20.817247 - Connect to DB: Starting
+17:39:20.840185 - Connect to DB: Connection established
+17:39:54.707073 - Connect to DB: Starting
+17:39:54.719042 - Connect to DB: Connection established
+17:40:26.862760 - Connect to DB: Starting
+17:40:26.874729 - Connect to DB: Connection established
+17:41:05.781038 - Connect to DB: Starting
+17:41:05.792011 - Connect to DB: Connection established
+17:41:22.241608 - Connect to DB: Starting
+17:41:22.253577 - Connect to DB: Connection established
+17:42:22.058567 - Connect to DB: Starting
+17:42:22.068570 - Connect to DB: Connection established
+17:42:44.270229 - Connect to DB: Starting
+17:42:44.281200 - Connect to DB: Connection established
+17:43:35.655789 - Connect to DB: Starting
+17:43:35.666761 - Connect to DB: Connection established
+17:43:44.618735 - Connect to DB: Starting
+17:43:44.639681 - Connect to DB: Connection established
+17:44:10.257439 - Connect to DB: Starting
+17:44:10.265484 - Connect to DB: Connection established
+17:45:53.130239 - Connect to DB: Starting
+17:45:53.141184 - Connect to DB: Connection established
+17:46:15.262747 - Connect to DB: Starting
+17:46:15.273719 - Connect to DB: Connection established
+17:48:10.673445 - Connect to DB: Starting
+17:48:10.698377 - Connect to DB: Connection established
+17:51:14.461173 - Connect to DB: Starting
+17:51:14.470138 - Connect to DB: Connection established
+18:15:58.806731 - Connect to DB: Starting
+18:15:58.817706 - Connect to DB: Connection established
+18:16:10.158149 - Connect to DB: Starting
+18:16:10.168140 - Connect to DB: Connection established
+18:16:25.945771 - Connect to DB: Starting
+18:16:25.956778 - Connect to DB: Connection established
+18:16:43.600083 - Connect to DB: Starting
+18:16:43.612051 - Connect to DB: Connection established
+18:16:56.282570 - Connect to DB: Starting
+18:16:56.293656 - Connect to DB: Connection established
+18:17:03.627716 - Connect to DB: Starting
+18:17:03.638689 - Connect to DB: Connection established
+18:17:54.124700 - Connect to DB: Starting
+18:17:54.146696 - Connect to DB: Connection established
+18:20:04.910784 - Connect to DB: Starting
+18:20:04.933750 - Connect to DB: Connection established
+18:20:38.677343 - Connect to DB: Starting
+18:20:38.688348 - Connect to DB: Connection established
+18:24:13.591006 - Connect to DB: Starting
+18:24:13.599010 - Connect to DB: Connection established
+18:24:22.353670 - Connect to DB: Starting
+18:24:22.362641 - Connect to DB: Connection established
+18:25:18.118176 - Connect to DB: Starting
+18:25:18.130142 - Connect to DB: Connection established
+18:25:33.137583 - Connect to DB: Starting
+18:25:33.148555 - Connect to DB: Connection established
+18:26:16.105362 - Connect to DB: Starting
+18:26:16.116311 - Connect to DB: Connection established
+18:26:40.539474 - Connect to DB: Starting
+18:26:40.559512 - Connect to DB: Connection established
+18:26:56.103373 - Connect to DB: Starting
+18:26:56.123439 - Connect to DB: Connection established
+18:27:21.152228 - Connect to DB: Starting
+18:27:21.164168 - Connect to DB: Connection established
+18:27:33.952440 - Connect to DB: Starting
+18:27:33.972580 - Connect to DB: Connection established
+18:28:00.828008 - Connect to DB: Starting
+18:28:00.848962 - Connect to DB: Connection established
+18:28:35.336619 - Connect to DB: Starting
+18:28:35.356676 - Connect to DB: Connection established
+18:31:18.480200 - Connect to DB: Starting
+18:31:18.502115 - Connect to DB: Connection established
+18:31:28.360447 - Connect to DB: Starting
+18:31:28.372447 - Connect to DB: Connection established
+18:31:34.456999 - Connect to DB: Starting
+18:31:34.468675 - Connect to DB: Connection established
+18:31:59.825443 - Connect to DB: Starting
+18:31:59.837410 - Connect to DB: Connection established
+18:32:17.811775 - Connect to DB: Starting
+18:32:17.824075 - Connect to DB: Connection established
+18:32:29.642201 - Connect to DB: Starting
+18:32:29.664140 - Connect to DB: Connection established
+18:33:03.306276 - Connect to DB: Starting
+18:33:03.327209 - Connect to DB: Connection established
+18:40:06.345728 - Connect to DB: Starting
+18:40:52.673966 - Connect to DB: Starting
+18:42:04.045631 - Connect to DB: Starting
+18:42:04.056603 - Connect to DB: Connection established
+18:42:11.491985 - Connect to DB: Starting
+18:42:11.502984 - Connect to DB: Connection established
+18:44:50.062225 - Connect to DB: Starting
+18:44:50.084137 - Connect to DB: Connection established
+18:45:09.655497 - Connect to DB: Starting
+18:45:09.671467 - Connect to DB: Connection established
+18:45:23.693312 - Connect to DB: Starting
+18:45:23.705273 - Connect to DB: Connection established
+18:46:06.692361 - Connect to DB: Starting
+18:46:06.713305 - Connect to DB: Connection established
+18:48:57.122731 - Connect to DB: Starting
+18:48:57.134795 - Connect to DB: Connection established
+18:49:15.560084 - Connect to DB: Starting
+18:49:15.581035 - Connect to DB: Connection established
+18:49:45.152528 - Connect to DB: Starting
+18:49:45.173471 - Connect to DB: Connection established
+18:49:54.200040 - Connect to DB: Starting
+18:49:54.220987 - Connect to DB: Connection established
+18:51:06.491538 - Connect to DB: Starting
+18:51:06.504507 - Connect to DB: Connection established
+18:51:54.607183 - Connect to DB: Starting
+18:51:54.618157 - Connect to DB: Connection established
+18:52:29.964229 - Connect to DB: Starting
+18:52:29.974203 - Connect to DB: Connection established
+18:53:04.878399 - Connect to DB: Starting
+18:53:04.901327 - Connect to DB: Connection established
+18:54:31.776905 - Connect to DB: Starting
+18:54:31.786880 - Connect to DB: Connection established
+18:56:43.226832 - Connect to DB: Starting
+18:56:43.237880 - Connect to DB: Connection established
+18:57:16.224980 - Connect to DB: Starting
+18:57:16.235953 - Connect to DB: Connection established
+11:07:16.899762 - Connect to DB: Starting
+11:07:16.919802 - Connect to DB: Connection established
+11:07:35.237777 - Connect to DB: Starting
+11:07:35.246750 - Connect to DB: Connection established
+11:07:47.841236 - Connect to DB: Starting
+11:07:47.861246 - Connect to DB: Connection established
+11:13:59.353247 - Connect to DB: Starting
+11:13:59.380175 - Connect to DB: Connection established
+11:16:45.106394 - Connect to DB: Starting
+11:16:45.126340 - Connect to DB: Connection established
+11:16:58.381703 - Connect to DB: Starting
+11:16:58.392683 - Connect to DB: Connection established
+11:18:20.267127 - Connect to DB: Starting
+11:18:20.278097 - Connect to DB: Connection established
+11:19:57.098126 - Connect to DB: Starting
+11:19:57.118084 - Connect to DB: Connection established
+11:22:00.591172 - Connect to DB: Starting
+11:22:00.610127 - Connect to DB: Connection established
+11:23:08.874375 - Connect to DB: Starting
+11:23:08.896340 - Connect to DB: Connection established
+11:25:29.840950 - Connect to DB: Starting
+11:25:29.861910 - Connect to DB: Connection established
+11:26:45.451363 - Connect to DB: Starting
+11:26:45.462327 - Connect to DB: Connection established
+11:27:45.349364 - Connect to DB: Starting
+11:27:45.370347 - Connect to DB: Connection established
+11:28:09.409369 - Connect to DB: Starting
+11:28:09.416349 - Connect to DB: Connection established
+11:28:43.868530 - Connect to DB: Starting
+11:28:43.876513 - Connect to DB: Connection established
+11:31:56.999814 - Connect to DB: Starting
+11:31:57.035717 - Connect to DB: Connection established
+11:34:25.244117 - Connect to DB: Starting
+11:34:25.262070 - Connect to DB: Connection established
+11:37:31.545712 - Connect to DB: Starting
+11:37:31.567654 - Connect to DB: Connection established
+11:37:53.663821 - Connect to DB: Starting
+11:37:53.684764 - Connect to DB: Connection established
+11:39:03.635673 - Connect to DB: Starting
+11:39:03.655712 - Connect to DB: Connection established
+11:40:19.026215 - Connect to DB: Starting
+11:40:19.038181 - Connect to DB: Connection established
+11:41:09.694952 - Connect to DB: Starting
+11:41:09.714933 - Connect to DB: Connection established
+12:11:52.520220 - Connect to DB: Starting
+12:11:52.533154 - Connect to DB: Connection established
+12:12:46.867189 - Connect to DB: Starting
+12:12:46.880220 - Connect to DB: Connection established
+12:13:15.912243 - Connect to DB: Starting
+12:13:15.923220 - Connect to DB: Connection established
+12:13:40.673100 - Connect to DB: Starting
+12:13:40.681080 - Connect to DB: Connection established
+12:24:13.014894 - Connect to DB: Starting
+12:24:13.035811 - Connect to DB: Connection established
+12:24:47.112870 - Connect to DB: Starting
+12:24:47.123845 - Connect to DB: Connection established
+12:24:58.806718 - Connect to DB: Starting
+12:24:58.826760 - Connect to DB: Connection established
+12:26:37.386672 - Connect to DB: Starting
+12:26:37.397644 - Connect to DB: Connection established
+12:27:16.304972 - Connect to DB: Starting
+12:27:16.316008 - Connect to DB: Connection established
+12:28:01.851126 - Connect to DB: Starting
+12:28:01.863097 - Connect to DB: Connection established
+12:28:59.579876 - Connect to DB: Starting
+12:28:59.599825 - Connect to DB: Connection established
+12:34:57.912205 - Connect to DB: Starting
+12:34:57.933150 - Connect to DB: Connection established
+12:45:58.800387 - Connect to DB: Starting
+12:45:58.808367 - Connect to DB: Connection established
+12:46:25.397765 - Connect to DB: Starting
+12:46:25.408708 - Connect to DB: Connection established
+12:47:22.495999 - Connect to DB: Starting
+12:47:22.517043 - Connect to DB: Connection established
+12:50:29.948870 - Connect to DB: Starting
+12:50:29.962041 - Connect to DB: Connection established
+12:51:02.075943 - Connect to DB: Starting
+12:51:02.096889 - Connect to DB: Connection established
+12:51:35.908176 - Connect to DB: Starting
+12:51:35.929120 - Connect to DB: Connection established
+12:53:00.393279 - Connect to DB: Starting
+12:53:00.404253 - Connect to DB: Connection established
+12:53:16.558533 - Connect to DB: Starting
+12:53:16.579467 - Connect to DB: Connection established
+13:14:07.690727 - Connect to DB: Starting
+13:14:07.704688 - Connect to DB: Connection established
+13:30:20.478004 - Connect to DB: Starting
+13:30:20.488982 - Connect to DB: Connection established
+13:30:38.820416 - Connect to DB: Starting
+13:30:38.838403 - Connect to DB: Connection established
+13:34:31.152073 - Connect to DB: Starting
+13:34:31.174016 - Connect to DB: Connection established
+13:35:48.870451 - Connect to DB: Starting
+13:35:48.878433 - Connect to DB: Connection established
+13:36:14.175785 - Connect to DB: Starting
+13:36:14.188745 - Connect to DB: Connection established
+15:50:16.552569 - Connect to DB: Starting
+15:50:16.559562 - Connect to DB: Connection established
+15:51:49.250425 - Connect to DB: Starting
+15:51:49.271342 - Connect to DB: Connection established
+15:52:32.032140 - Connect to DB: Starting
+15:52:32.053095 - Connect to DB: Connection established
+15:53:52.364430 - Connect to DB: Starting
+15:53:52.372408 - Connect to DB: Connection established
+15:54:17.859764 - Connect to DB: Starting
+15:54:17.880800 - Connect to DB: Connection established
+15:54:45.161109 - Connect to DB: Starting
+15:54:45.179059 - Connect to DB: Connection established
+15:55:07.072297 - Connect to DB: Starting
+15:55:07.094239 - Connect to DB: Connection established
+15:56:26.992362 - Connect to DB: Starting
+15:56:27.010317 - Connect to DB: Connection established
+15:57:33.274355 - Connect to DB: Starting
+15:57:33.285326 - Connect to DB: Connection established
+16:00:15.929968 - Connect to DB: Starting
+16:00:15.941938 - Connect to DB: Connection established
+16:02:08.163384 - Connect to DB: Starting
+16:02:08.173869 - Connect to DB: Connection established
+16:05:01.267002 - Connect to DB: Starting
+16:05:01.287945 - Connect to DB: Connection established
+16:06:40.296327 - Connect to DB: Starting
+16:06:40.317262 - Connect to DB: Connection established
+16:06:50.199700 - Connect to DB: Starting
+16:06:50.211670 - Connect to DB: Connection established
+16:07:52.405306 - Connect to DB: Starting
+16:07:52.425750 - Connect to DB: Connection established
+16:09:46.967269 - Connect to DB: Starting
+16:09:46.988215 - Connect to DB: Connection established
+16:10:33.707500 - Connect to DB: Starting
+16:10:33.717477 - Connect to DB: Connection established
+16:10:42.603542 - Connect to DB: Starting
+16:10:42.617715 - Connect to DB: Connection established
+16:11:17.953468 - Connect to DB: Starting
+16:11:17.972390 - Connect to DB: Connection established
+16:11:40.241742 - Connect to DB: Starting
+16:11:40.249718 - Connect to DB: Connection established
+16:32:04.228823 - Connect to DB: Starting
+16:32:04.240792 - Connect to DB: Connection established
+16:32:26.887740 - Connect to DB: Starting
+16:32:26.898703 - Connect to DB: Connection established
+16:35:20.604643 - Connect to DB: Starting
+16:35:20.626649 - Connect to DB: Connection established
+16:35:51.122131 - Connect to DB: Starting
+16:35:51.133141 - Connect to DB: Connection established
+16:36:03.544092 - Connect to DB: Starting
+16:36:03.565038 - Connect to DB: Connection established
+16:38:11.758623 - Connect to DB: Starting
+16:38:11.770602 - Connect to DB: Connection established
+16:40:21.833250 - Connect to DB: Starting
+16:40:21.845312 - Connect to DB: Connection established
+16:42:37.999986 - Connect to DB: Starting
+16:42:38.021930 - Connect to DB: Connection established
+16:43:13.308040 - Connect to DB: Starting
+16:43:13.328082 - Connect to DB: Connection established
+16:43:48.227569 - Connect to DB: Starting
+16:43:48.248578 - Connect to DB: Connection established
+16:44:27.185482 - Connect to DB: Starting
+16:44:27.206516 - Connect to DB: Connection established
+16:44:41.309762 - Connect to DB: Starting
+16:44:41.318710 - Connect to DB: Connection established
+16:44:54.531169 - Connect to DB: Starting
+16:44:54.549124 - Connect to DB: Connection established
+16:44:58.715696 - Connect to DB: Starting
+16:44:58.727665 - Connect to DB: Connection established
+16:45:06.986614 - Connect to DB: Starting
+16:45:06.997590 - Connect to DB: Connection established
+16:46:10.612908 - Connect to DB: Starting
+16:46:10.633950 - Connect to DB: Connection established
+16:46:17.266867 - Connect to DB: Starting
+16:46:17.278838 - Connect to DB: Connection established
+16:46:28.073911 - Connect to DB: Starting
+16:46:28.088887 - Connect to DB: Connection established
+16:46:52.996970 - Connect to DB: Starting
+16:46:53.007942 - Connect to DB: Connection established
+16:49:04.807462 - Connect to DB: Starting
+16:49:04.828409 - Connect to DB: Connection established
+16:49:34.515370 - Connect to DB: Starting
+16:49:34.537313 - Connect to DB: Connection established
+16:50:05.288419 - Connect to DB: Starting
+16:50:05.295396 - Connect to DB: Connection established
+16:50:18.684195 - Connect to DB: Starting
+16:50:18.694167 - Connect to DB: Connection established
+16:50:47.393838 - Connect to DB: Starting
+16:50:47.411887 - Connect to DB: Connection established
+16:53:26.242716 - Connect to DB: Starting
+16:53:26.259671 - Connect to DB: Connection established
+16:53:45.242052 - Connect to DB: Starting
+16:53:45.262997 - Connect to DB: Connection established
+16:54:33.483937 - Connect to DB: Starting
+16:54:33.505510 - Connect to DB: Connection established
+16:55:06.931812 - Connect to DB: Starting
+16:55:06.937796 - Connect to DB: Connection established
+16:55:15.013610 - Connect to DB: Starting
+16:55:15.026086 - Connect to DB: Connection established

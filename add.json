@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "category_id": 111,
+            "location_id": 350,
+            "name": "next_gen_add",
+            "description": "This is a test description",
+            "cost": "2000",
+            "photos": [
+				"i.jpg"
+            ]
+		}
+    ]
+}
