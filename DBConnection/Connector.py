@@ -20,7 +20,7 @@ class DBConnector:
             ReportHandler.add_log("Connect to DB", "Connection established")
             self.__cursor = self.__connection.cursor()
         except psycopg2.OperationalError:
-            ReportHandler.add_error("Wrong DB setted up")
+            ReportHandler.add_error("Wrong DB setted up", "Failed")
         except:
             ReportHandler.add_error("Connect to DB", "Failed")
 

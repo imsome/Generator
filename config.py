@@ -25,7 +25,9 @@ password = 'opopopop'
 is_dump_logs_in_console = True
 is_approve = False
 is_db_approve = True
-users_count = 5
+threads_count = 5
+users_count = 15
+watches_count = 3
 #
 # Paths
 #
@@ -73,7 +75,7 @@ queue = []  # Очередь для потоков для селениума
 ReportHandler = Report(report_errors_path, report_logs_path)
 dlya_olega = False
 statistic_generation = False
-watches_count = 60
+functions = ['cost, location, category, image, description, title']
 #
 # DB queries
 #

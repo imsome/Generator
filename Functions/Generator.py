@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from user_class import User
 import config
 from config import ReportHandler
@@ -29,12 +31,18 @@ class Generator(object):
         self.ads_to_approve = []
 
     def generate_ad_example(self):
-        ruling_functions.ad_get_new_random_title()
-        ruling_functions.ad_get_new_random_description()
-        ruling_functions.ad_get_new_random_image()
-        ruling_functions.ad_get_new_simple_category()
-        ruling_functions.ad_get_new_random_location()
-        ruling_functions.ad_get_new_random_cost()
+        if "title" in config.functions:
+            ruling_functions.ad_get_new_random_title()
+        if "description" in config.functions:
+            ruling_functions.ad_get_new_random_description()
+        if "image" in config.functions:
+            ruling_functions.ad_get_new_random_image()
+        if "category" in config.functions:
+            ruling_functions.ad_get_new_simple_category()
+        if "location" in config.functions:
+            ruling_functions.ad_get_new_random_location()
+        if "cost" in config.functions:
+            ruling_functions.ad_get_new_random_cost()
         # ruling_functions.ad_get_new_random_filters()
         if config.dlya_olega:
             config.ad_photos = ["flex.jpg"]
@@ -89,8 +97,11 @@ class Generator(object):
     def generate_watches(self, ads_min_id, ads_max_id):
         i = 0
         while i < self.users_count:
-            i += 1
-            user = User(config.email.format(i), config.password)
+            if self.users_count != 1:
+                email_number = 100*int(self.thread_number) + i+1
+                email = config.email.format(str(email_number))
+            user = User(email, config.password)
+            user.register()
             user.authorize()
             y = ads_min_id
             while y < self.watches_count + ads_min_id:
@@ -98,7 +109,6 @@ class Generator(object):
                 y += 1
 
     def generate_face_ads(self):
-
         photo = config.face_photos
         user = User(config.email, config.password)
         user.register()

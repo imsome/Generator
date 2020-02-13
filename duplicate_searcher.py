@@ -15,16 +15,23 @@ from DBConnection import Connector
 
 def get_attrs():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--email', action='store', dest='email', default='testswapix@gmail.com')
+    parser.add_argument('--email', action='store', dest='email', default='testswapix@gmail.com', help='You can only enter *@*.* email')
     parser.add_argument('--password', action='store', dest='password', default='opopopop')
     parser.add_argument('--url', action='store', dest='url', default="test")
-    parser.add_argument('--ads_count', action='store', dest='ads_count', default='5')
-    parser.add_argument('--is_dump_logs_in_console', action='store', dest='is_dump_logs_in_console', default=False)
+    parser.add_argument('--is_dump_logs_in_console', action='store', dest='is_dump_logs_in_console', default=True)
     parser.add_argument('--users_count', action='store', dest='users_count', default='5')
     parser.add_argument('--is_approve', action='store', dest='is_approve', default=False)
     parser.add_argument('--is_db_approve', action='store', dest='is_db_approve', default=True)
     parser.add_argument('--dlya_olega', action='store', dest='dlya_olega', default=False)
-    parser.add_argument('--statistic_generation', action='store', dest='statistic_generation', default=False)
+    parser.add_argument('--statistic_generation', action='store', dest='statistic_generation', default=True)
+    parser.add_argument('--functions', action='store', dest='functions',
+                        default=['cost', 'location', 'category', 'image', 'description', 'title'],
+                        help="Attribute helps to create adverts with different settings, "
+                             "i.e. you can choose between randomly generated parameters and "
+                             "concrete ones. You can change types with .json files in root project folder")
+    parser.add_argument('--threads_count', action='store', dest='threads_count', default=5)
+    parser.add_argument('--ads_count', action='store', dest='ads_count', default=5)
+    parser.add_argument('--watches_count', action='store', dest='watches_count', default=5)
     result = parser.parse_args()
     return result
 
@@ -49,8 +56,8 @@ def set_add_example():
 def create_threads(threads_count, ads_count, users_count, watches_count):
     config.is_approve = False  # сейчас отключено, потому что бессмысленно и беспощадно, все потоки пойдут по одному массиву
     for i in range(threads_count):
-        name = "Thread 3%s" % (i+1)
-        my_thread = Threader.Threader(name, i+1, ads_count, users_count, watches_count)
+        name = "Thread 3%s" % (i + 1)
+        my_thread = Threader.Threader(name, i + 1, ads_count, users_count, watches_count)
         my_thread.start()
 
 
@@ -149,13 +156,14 @@ def main():
     config.dlya_olega = options.dlya_olega
     config.statistic_generation = options.statistic_generation
     config.ads_count = options.ads_count
-    url = 2448  # Временный рулер url'ами, чтобы не лазить вверх
+    config.functions = options.functions
+    config.threads_count = options.threads_count
+    config.watches_count = options.watches_count
     init_app(url)
     if config.is_approve:  # Флаг аппрува объяв селениумом
         queue = queue_start()
-    create_threads(threads_count=5, ads_count=10, users_count=4, watches_count=60)  # Создание объяв потоками
-    # generator = Generator.Generator(ads_count=3, users_count=3, watches_count=25, thread_number=1)
-    # generator.generate_ads()
+    create_threads(threads_count=config.threads_count, ads_count=config.ads_count, users_count=config.users_count,
+                   watches_count=config.watches_count)  # Создание объяв потоками
     if config.is_db_approve:  # Флаг для аппрува объяв с БД
         approve = Connector.DBConnector()
         approve.approve_adds_with_status_2()
