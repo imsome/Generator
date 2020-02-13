@@ -1,91 +1,50 @@
-13:37:48.921046 - Registration: Could not get response:
+10:12:15.978016 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:48.920055 - Registration: Could not get response:
+10:12:15.999948 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:48.922044 - Registration: Could not get response:
+10:12:16.022948 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:48.9220440 - Registration: Could not get response:
+10:12:16.062842 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:48.9220441 - Registration: Could not get response:
+10:12:16.073810 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:50.639278 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3567 are duplicated.'}]}
-13:37:52.150546 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3592 are duplicated.'}]}
-13:37:53.404085 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3596 are duplicated.'}]}
-13:37:54.574910 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3621 are duplicated.'}]}
-13:37:54.939446 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:37:56.268387 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3652 are duplicated.'}]}
-13:37:56.605526 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:37:57.134663 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:37:57.709969 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3680 are duplicated.'}]}
-13:37:58.291571 - Registration: Could not get response:
+10:12:16.725084 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:37:59.476770 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:00.618059 - Registration: Could not get response:
+10:12:16.7250840 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:00.925808 - Registration: Could not get response:
+10:12:16.761982 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:01.209290 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:01.341098 - Registration: Could not get response:
+10:12:17.228430 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:01.584514 - Registration: Could not get response:
+10:12:17.259475 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:03.029796 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:03.872835 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:03.947347 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:07.302070 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:07.370860 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:07.777743 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3792 are duplicated.'}]}
-13:38:07.985649 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3802 are duplicated.'}]}
-13:38:08.528477 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:08.544435 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3811 are duplicated.'}]}
-13:38:09.630990 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:09.918544 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:10.090589 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:10.132476 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:11.045279 - Registration: Could not get response:
+10:12:17.419590 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:11.288039 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:12.611075 - Registration: Could not get response:
+10:12:17.456491 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:12.630017 - Registration: Could not get response:
+10:12:17.752862 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:13.030910 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:13.210924 - Registration: Could not get response:
+10:12:18.046346 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:13.909802 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3877 are duplicated.'}]}
-13:38:13.918782 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:13.987847 - Registration: Could not get response:
+10:12:18.067287 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:14.531126 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3886 are duplicated.'}]}
-13:38:16.401718 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3914 are duplicated.'}]}
-13:38:16.555276 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3926 are duplicated.'}]}
-13:38:16.913928 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:17.328192 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:17.461261 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 3945 are duplicated.'}]}
-13:38:19.639708 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:19.715703 - Registration: Could not get response:
+10:12:18.075265 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:20.384520 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:20.539106 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 4010 are duplicated.'}]}
-13:38:20.930006 - Registration: Could not get response:
+10:12:18.193948 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:21.087820 - Registration: Could not get response:
+10:12:18.500154 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:21.101779 - Registration: Could not get response:
+10:12:19.174624 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:22.101122 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:22.233756 - Registration: Could not get response:
+10:12:19.406006 - Registration: Could not get response:
 {'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
-13:38:22.703753 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}, {'field': 'image_ids', 'message': 'Images with id 4042 are duplicated.'}]}
-13:38:22.984030 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}, {'field': 'image_ids', 'message': 'Images with id 4044 are duplicated.'}]}
-13:38:24.285575 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:25.603348 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
-13:38:26.332831 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 4109 are duplicated.'}]}
-13:38:26.578534 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 4112 are duplicated.'}]}
-13:38:26.950631 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 4115 are duplicated.'}]}
-13:38:27.010469 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}, {'field': 'image_ids', 'message': 'Images with id 4127 are duplicated.'}]}
-13:38:27.100229 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:27.144112 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:27.166052 - Upload image: {'success': False, 'data': [], 'error': [{'field': 'image', 'message': 'Only files with these extensions are allowed: png, jpg, jpeg, gif.'}]}
-13:38:28.267513 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'image_ids', 'message': 'Images with id 4143 are duplicated.'}]}
-13:38:28.671433 - Creating add: {'success': False, 'data': [], 'error': [{'field': 'location_id', 'message': 'Location Id should be a child location.'}]}
+10:12:19.469091 - Registration: Could not get response:
+{'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
+10:12:19.513101 - Registration: Could not get response:
+{'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
+10:12:19.5131010 - Registration: Could not get response:
+{'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
+10:12:19.907969 - Registration: Could not get response:
+{'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
+10:12:20.033658 - Registration: Could not get response:
+{'success': False, 'data': [], 'error': [{'field': 'email', 'message': 'User already exists.'}]}
